@@ -1,2 +1,0 @@
-2026-01-07T17:16:43.771812555+01:00 ERROR failed to find any projects in [AbsPathBuf("/home/dcap/onedev/Creel")]
-2026-01-07T17:16:43.775143424+01:00 ERROR FetchWorkspaceError: rust-analyzer failed to fetch workspace

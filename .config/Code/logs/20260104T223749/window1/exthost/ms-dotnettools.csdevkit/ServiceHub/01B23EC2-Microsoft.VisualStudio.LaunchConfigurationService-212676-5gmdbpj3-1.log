@@ -1,7 +1,0 @@
-﻿01/10/2026 13:26:58 Central European Standard Time : Information : Local timezone is (UTC+01:00) Central European Time (Stockholm)
-01/10/2026 13:26:58 Central European Standard Time: Information : 3 :Listening started.
-01/10/2026 13:26:59 Central European Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService read: end of stream
-01/10/2026 13:26:59 Central European Standard Time : Information : Waiting for 'Microsoft.VisualStudio.LaunchConfigurationService' instance to complete its completionTask.
-01/10/2026 13:26:59 Central European Standard Time: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 
-01/10/2026 13:26:59 Central European Standard Time : Information : Disposed 'Microsoft.VisualStudio.LaunchConfigurationService' via 'completionTask' method.
-01/10/2026 13:26:59 Central European Standard Time : Information : Finishing shutting down service: Microsoft.VisualStudio.LaunchConfigurationService.

@@ -1,9 +1,0 @@
-roo-cline extension activated - {"publisher":"RooVeterinaryInc","name":"roo-cline","version":"3.39.3","outputChannel":"Roo-Code"}
-[Default Commands Migration] Migration already completed, skipping
-Skipping migration of cline_custom_modes.json to custom_modes.json: old file not found
-Skipping migration of cline_mcp_settings.json to mcp_settings.json: old file not found
-No custom_modes.json found, skipping YAML migration
-CloudService not ready, deferring cloud profile sync
-[auth] Using WebAuthService
-[auth] changeState: initializing -> logged-out
-[AutoImport] No auto-import settings path specified, skipping auto-import

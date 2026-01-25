@@ -1,8 +1,0 @@
-﻿01/25/2026 21:42:10 Central European Standard Time : Information : Local timezone is (UTC+01:00) Central European Time (Stockholm)
-01/25/2026 21:42:10 Central European Standard Time : Information : Acquiring semaphore to try to start the Controller.
-01/25/2026 21:42:10 Central European Standard Time : Information : Beginning to try to start the Controller.
-01/25/2026 21:42:10 Central European Standard Time : Information : Starting hub controller
-01/25/2026 21:42:10 Central European Standard Time : Information : Setting environment variable 'ServiceHubCurrentOsLocale' to 'en-US' in the "/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController" process.
-01/25/2026 21:42:10 Central European Standard Time : Information : Setting environment variable 'ServiceHubLocationServicePipeName' to 'e413a5bcb1' in the "/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController" process.
-01/25/2026 21:42:10 Central European Standard Time : Information : Attempting to connect to location service pipe at 'e413a5bcb1'.
-01/25/2026 21:42:10 Central European Standard Time : Information : Hub controller started. PID 550175

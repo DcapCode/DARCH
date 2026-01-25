@@ -1,4 +1,0 @@
-2026-01-25 21:38:04.543 [info]  🔒 Started listening for lockfile changes.
-2026-01-25 21:38:04.543 [info]  ⚙️ Started listening for extension settings changes.
-2026-01-25 21:38:04.543 [warning] 🔍 Could not find global Node Modules path for pnpm
-2026-01-25 21:38:04.726 [error] Unable to find the Biome binary.

@@ -1,3 +1,0 @@
-2026-01-25 21:42:08.691 [info] Log level: Info
-2026-01-25 21:42:09.122 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2026-01-25 21:45:31.912 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for DcapCode/Creel: Error: No GitHub authentication session available.

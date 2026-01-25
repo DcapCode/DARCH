@@ -1,8 +1,0 @@
-2026-01-25 21:37:59.646 [info] Started local extension host with pid 548798.
-2026-01-25 21:38:00.193 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2026-01-25 21:38:00.633 [info] MCP Registry configured: https://api.mcp.github.com
-2026-01-25 21:38:00.705 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2026-01-25 21:38:02.498 [info] [perf] Render performance baseline is 39ms
-2026-01-25 21:38:02.684 [info] Auto updating outdated extensions. rooveterinaryinc.roo-cline, rust-lang.rust-analyzer
-2026-01-25 21:38:04.230 [error] [Extension Host] (node:548798) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
