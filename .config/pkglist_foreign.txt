@@ -1,0 +1,2 @@
+paru
+zen-browser-bin

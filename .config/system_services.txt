@@ -1,0 +1,24 @@
+UNIT FILE                          STATE   PRESET
+cups.path                          enabled disabled
+avahi-daemon.service               enabled disabled
+cups.service                       enabled disabled
+getty@.service                     enabled enabled
+NetworkManager-dispatcher.service  enabled disabled
+NetworkManager-wait-online.service enabled disabled
+NetworkManager.service             enabled disabled
+nvidia-hibernate.service           enabled disabled
+nvidia-resume.service              enabled disabled
+nvidia-suspend.service             enabled disabled
+sddm.service                       enabled disabled
+systemd-timesyncd.service          enabled enabled
+tailscaled.service                 enabled disabled
+avahi-daemon.socket                enabled disabled
+cups.socket                        enabled disabled
+systemd-userdbd.socket             enabled enabled
+remote-fs.target                   enabled enabled
+paccache.timer                     enabled disabled
+reflector.timer                    enabled disabled
+snapper-cleanup.timer              enabled disabled
+snapper-timeline.timer             enabled disabled
+
+21 unit files listed.
