@@ -1,0 +1,8 @@
+﻿01/10/2026 13:33:10 Central European Standard Time : Information : Local timezone is (UTC+01:00) Central European Time (Stockholm)
+01/10/2026 13:33:10 Central European Standard Time: Information : 3 :Listening started.
+01/10/2026 13:33:11 Central European Standard Time: Information : 7 :{"id":2,"method":"handshake"}
+01/10/2026 13:33:11 Central European Standard Time: Information : 6 :Received request "2" for method "handshake".
+01/10/2026 13:33:11 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+01/10/2026 13:33:11 Central European Standard Time : Start : handshake
+01/10/2026 13:33:11 Central European Standard Time : Stop : handshake
+01/10/2026 13:33:11 Central European Standard Time: Information : 8 :{"id":2}

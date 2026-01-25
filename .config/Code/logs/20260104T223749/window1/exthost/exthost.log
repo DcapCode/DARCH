@@ -1,0 +1,345 @@
+2026-01-04 22:37:52.115 [info] Extension host with pid 1969 started
+2026-01-04 22:37:52.115 [info] Skipping acquiring lock for /home/dcap/.config/Code/User/workspaceStorage/68c390d2924b4106b0677bcf755d4ad4.
+2026-01-04 22:37:52.402 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-04 22:37:52.464 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-04 22:37:52.487 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-04 22:37:52.614 [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-04 22:37:52.706 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-04 22:37:52.900 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-04 22:37:52.929 [info] ExtensionService#_doActivateExtension RooVeterinaryInc.roo-cline, startup: false, activationEvent: 'onLanguage'
+2026-01-04 22:37:54.699 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2026-01-04 22:37:54.844 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-01-04 22:37:54.912 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-04 22:37:54.915 [info] ExtensionService#_doActivateExtension IgorSbitnev.error-gutters, startup: true, activationEvent: '*'
+2026-01-04 22:37:54.977 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-01-04 22:37:55.058 [info] ExtensionService#_doActivateExtension ms-dotnettools.csdevkit, startup: false, activationEvent: 'onLanguage:csharp'
+2026-01-04 22:37:55.303 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2026-01-04 22:37:55.734 [info] ExtensionService#_doActivateExtension bierner.markdown-mermaid, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-01-04 22:37:55.808 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-04 22:37:55.877 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-04 22:37:56.406 [info] Eager extensions activated
+2026-01-04 22:37:56.451 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.454 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.482 [info] ExtensionService#_doActivateExtension biomejs.biome, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.529 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.535 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.738 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-01-04 22:37:56.795 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-01-04 22:37:57.436 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-04 22:37:57.446 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-04 22:37:57.526 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-04 22:38:00.634 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
+2026-01-04 22:38:00.635 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2026-01-07 17:16:43.598 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2026-01-07 17:16:43.607 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2026-01-07 17:16:43.609 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2026-01-07 17:16:43.611 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+2026-01-07 17:16:43.639 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onTaskType:cargo'
+2026-01-07 19:02:48.374 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:48.374 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.090 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:49.825 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:52.892 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:53.805 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:54.853 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.200 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.200 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.200 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.200 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.200 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.201 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.201 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:02:55.201 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:04.364 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:05.443 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.149 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.149 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:06.150 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.701 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.701 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:12.803 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:15.018 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:15.018 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:17.164 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:17.164 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:18.643 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:22.722 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:25.323 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:31.110 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.253 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:32.617 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:03:42.820 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 19:34:29.389 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:typescript'
+2026-01-07 22:17:52.128 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 22:17:52.128 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-07 22:19:12.945 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-07 22:19:12.980 [error] An error occurred when disposing the subscriptions for extension 'ms-dotnettools.csdevkit':
+2026-01-07 22:19:12.986 [error] Error: Connection is disposed.
+	at ue (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:912160)
+	at Object.sendNotification (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:913003)
+	at Proxy.dispose (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:243244)
+	at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+	at oL.b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:15172)
+	at oL.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:12045)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2026-01-07 22:19:12.998 [error] Canceled: Canceled
+	at new wU (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+	at l5.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+	at cA.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41228)
+	at cA.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+	at i.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40062)
+	at cA.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41748)
+	at cA.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40825)
+	at cA.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+	at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:102269)
+	at Ba (/home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64/out/main.js:63:14967)
+	at Object.q2 (/home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64/out/main.js:403:1290)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2026-01-07 22:19:13.005 [error] Canceled: Canceled
+	at new wU (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+	at l5.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+	at m9.setValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14284)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14908
+	at vs.a (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15026)
+	at vs.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:76048)
+	at vs.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:76032)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-01-07 22:19:13.014 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:2570)
+	at nd.logOutputMessage (/home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64/out/main.js:41:493)
+	at nd.error (/home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64/out/main.js:41:382)
+	at ChildProcess.<anonymous> (/home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64/out/main.js:44:38181)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-01-07 22:19:13.019 [error] Error: Channel has been closed
+	at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:2816)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:3161)
+	at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45267)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600579)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-01-07 22:19:13.978 [error] Canceled (FileSystemError): Canceled
+	at Ns.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:18876)
+	at Object.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:17171)
+	at async Biome.cleanup (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:22910:5)
+	at async Biome.stop (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:22745:5)
+	at async Extension.stop (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:23155:7)
+	at async Object.deactivate (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:27427:3)
+	at async Promise.all (index 20)
+	at async HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10014)
+2026-01-07 22:19:13.978 [info] Extension host with pid 1969 exiting with code 0
+2026-01-07 22:19:14.626 [info] Extension host with pid 212340 started
+2026-01-07 22:19:14.626 [info] Skipping acquiring lock for /home/dcap/.config/Code/User/workspaceStorage/68c390d2924b4106b0677bcf755d4ad4.
+2026-01-07 22:19:15.023 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-07 22:19:15.055 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-07 22:19:15.075 [info] ExtensionService#_doActivateExtension RooVeterinaryInc.roo-cline, startup: false, activationEvent: 'onLanguage'
+2026-01-07 22:19:16.267 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2026-01-07 22:19:16.339 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-01-07 22:19:16.463 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-07 22:19:16.466 [info] ExtensionService#_doActivateExtension IgorSbitnev.error-gutters, startup: true, activationEvent: '*'
+2026-01-07 22:19:16.493 [info] ExtensionService#_doActivateExtension ms-dotnettools.csdevkit, startup: false, activationEvent: 'onLanguage:csharp'
+2026-01-07 22:19:16.621 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2026-01-07 22:19:16.907 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-07 22:19:16.968 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-07 22:19:17.137 [info] Eager extensions activated
+2026-01-07 22:19:17.207 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.209 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.229 [info] ExtensionService#_doActivateExtension biomejs.biome, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.268 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.274 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.408 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-01-07 22:19:17.429 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-01-07 22:19:17.819 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-07 22:19:17.828 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-07 22:19:17.883 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-07 22:19:19.753 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2026-01-07 22:19:19.754 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
+2026-01-07 22:42:03.166 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-01-07 22:42:03.185 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-01-08 13:30:44.436 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-08 13:30:44.535 [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-08 13:30:44.591 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-08 13:30:44.799 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-01-08 13:30:44.826 [info] ExtensionService#_doActivateExtension bierner.markdown-mermaid, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-01-09 15:37:16.118 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-09 15:37:16.124 [warning] ms-dotnettools.csharp - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2026-01-10 13:26:57.673 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-10 13:26:58.167 [error] An error occurred when disposing the subscriptions for extension 'ms-dotnettools.csdevkit':
+2026-01-10 13:26:58.196 [error] Error: Connection is disposed.
+	at ue (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:912160)
+	at Object.sendNotification (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:913003)
+	at Proxy.dispose (/home/dcap/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64/dist/extension.js:2:243244)
+	at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+	at oL.b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:15172)
+	at oL.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:12045)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2026-01-10 13:26:58.256 [warning] Canceled
+2026-01-10 13:26:58.261 [error] Canceled: Canceled
+	at new wU (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+	at l5.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+	at m9.setValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14284)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14908
+	at vs.a (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15026)
+	at vs.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:76048)
+	at vs.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:76032)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-01-10 13:26:58.326 [error] Error: Channel has been closed
+	at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:2816)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:3161)
+	at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45267)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600579)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-01-10 13:26:59.156 [error] Canceled (FileSystemError): Canceled
+	at Ns.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:18876)
+	at Object.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:17171)
+	at async Biome.cleanup (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:22910:5)
+	at async Biome.stop (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:22745:5)
+	at async Extension.stop (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:23155:7)
+	at async Object.deactivate (/home/dcap/.vscode/extensions/biomejs.biome-3.3.0/out/main.js:27427:3)
+	at async Promise.all (index 17)
+	at async HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10014)
+2026-01-10 13:26:59.159 [info] Extension host with pid 212340 exiting with code 0

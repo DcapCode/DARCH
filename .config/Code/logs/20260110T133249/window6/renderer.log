@@ -1,0 +1,39 @@
+2026-01-25 21:42:05.652 [info] Started local extension host with pid 549947.
+2026-01-25 21:42:06.789 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-25 21:42:06.860 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-25 21:42:07.044 [error] [Extension Host] (node:549947) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-25 21:42:08.349 [info] [perf] Render performance baseline is 30ms
+2026-01-25 21:42:08.624 [error] [Extension Host] (node:549947) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-01-25 21:42:14.047 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-25 21:42:14.077 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-25 21:42:14.085 [error] [Extension Host] Server "chrome-devtools" stderr: npm error code E404
+
+2026-01-25 21:42:14.085 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 Not Found - GET https://registry.npmjs.org/@modelcontextprotocol%2fserver-chrome-devtools - Not found
+
+2026-01-25 21:42:14.086 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404
+
+2026-01-25 21:42:14.086 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404  The requested resource '@modelcontextprotocol/server-chrome-devtools@*' could not be found or you do not have permission to access it.
+
+2026-01-25 21:42:14.087 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404
+
+2026-01-25 21:42:14.088 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 Note that you can also install from a
+
+2026-01-25 21:42:14.088 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 tarball, folder, http url, or git url.
+
+2026-01-25 21:42:14.091 [error] [Extension Host] Server "chrome-devtools" stderr: npm error A complete log of this run can be found in: /home/dcap/.npm/_logs/2026-01-25T20_42_13_447Z-debug-0.log
+
+2026-01-25 21:42:14.100 [error] [Extension Host] Failed to connect to new MCP server chrome-devtools: McpError: MCP error -32000: Connection closed
+	at nje._onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.43.0/dist/extension.js:4478:13494)
+	at _transport.onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.43.0/dist/extension.js:4478:13019)
+	at ChildProcess.<anonymous> (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.43.0/dist/extension.js:4480:1466)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-25 21:42:14.817 [error] [Extension Host] Server "shadcn" stderr: npm warn exec The following package was not found and will be installed: shadcn@3.7.0
+
+2026-01-25 21:46:35.905 [error] [Extension Host] [onDidStartTerminalShellExecution] Shell execution started, but not from a Roo-registered terminal: {"terminal":{"name":"opencode","processId":{},"creationOptions":{"name":"opencode","iconPath":{"light":{"$mid":1,"path":"/home/dcap/.vscode/extensions/sst-dev.opencode-0.0.13/images/button-dark.svg","scheme":"file"},"dark":{"$mid":1,"path":"/home/dcap/.vscode/extensions/sst-dev.opencode-0.0.13/images/button-light.svg","scheme":"file"}},"location":{"viewColumn":-2,"preserveFocus":false},"env":{"_EXTENSION_OPENCODE_PORT":"19104","OPENCODE_CALLER":"vscode"}},"state":{"isInteractedWith":true,"shell":"zsh"},"shellIntegration":{"cwd":{"$mid":1,"path":"/home/dcap/git/Creel","scheme":"file"}},"dimensions":{"columns":49,"rows":36}},"shellIntegration":"[Circular]","execution":{"commandLine":{"value":"opencode --port 19104","confidence":1},"cwd":{"$mid":1,"path":"/home/dcap/git/Creel","scheme":"file"}}}

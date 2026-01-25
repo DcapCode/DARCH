@@ -1,0 +1,14 @@
+2026-01-25 21:42:09.486 [info] Created Test Controller
+2026-01-25 21:42:09.486 [info] Log verbosity: Info
+2026-01-25 21:42:12.391 [info] Using vstest from dotnet sdk in [/usr/share/dotnet/sdk/10.0.100].
+2026-01-25 21:42:12.396 [info] Initialized Test Explorer Server [550237]
+2026-01-25 21:42:12.402 [info] Test Store Folder: /home/dcap/.config/Code/User/workspaceStorage/2113f182dd59632cd505242417c74a0d/ms-dotnettools.csdevkit
+2026-01-25 21:42:12.456 [info] Test data store opened in 0.011 sec.
+2026-01-25 21:42:12.573 [info] Test controller initialized.
+2026-01-25 21:42:13.387 [info] Initialized project system provider.
+2026-01-25 21:42:13.387 [info] Waiting for projects to be detected by Project System...
+2026-01-25 21:43:27.637 [info] 1 projects added, 0 changed, 0 removed.
+2026-01-25 21:43:27.638 [warning] Assembly not found for discovery: /home/dcap/git/Creel/tests/Creel.Api.Tests/bin/Debug/net10.0/Creel.Api.Tests.dll. A build is required.
+2026-01-25 21:43:27.650 [info] No projects to discover.
+2026-01-25 21:45:42.265 [info] 0 projects added, 0 changed, 0 removed.
+2026-01-25 21:45:51.184 [info] 0 projects added, 0 changed, 0 removed.

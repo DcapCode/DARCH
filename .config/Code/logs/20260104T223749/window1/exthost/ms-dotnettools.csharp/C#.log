@@ -1,0 +1,68 @@
+2026-01-04 22:37:56.406 [info] Locating .NET runtime version 9.0.1
+2026-01-04 22:37:57.435 [info] Dotnet path: /usr/share/dotnet/dotnet
+2026-01-04 22:37:57.435 [info] Activating C# + C# Dev Kit...
+2026-01-04 22:37:58.070 [info] [stdout] info: Program[0]
+      Server started with process ID 2324
+
+2026-01-04 22:37:59.260 [info] [stdout] {"pipeName":"/tmp/58cc5030.sock"}
+
+2026-01-04 22:37:59.260 [info] received named pipe information from server
+2026-01-04 22:37:59.261 [info] client has connected to server
+2026-01-04 22:37:59.555 [info] [Program] Language server initialized
+2026-01-04 22:38:03.048 [info] [textDocument/diagnostic] [Microsoft.CodeAnalysis.MSBuild.BuildHostProcessManager] .NET BuildHost started from /home/dcap/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer reloading to start from /usr/share/dotnet/dotnet to match necessary SDK location.
+2026-01-04 22:38:06.080 [warning] [textDocument/diagnostic] [LanguageServerProjectLoader] Project /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.csproj has unresolved dependencies
+2026-01-04 22:38:06.413 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Successfully completed load of /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.cs
+2026-01-04 22:38:06.426 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: Running dotnet restore on /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.cs
+2026-01-04 22:38:06.429 [info] [textDocument/diagnostic] [Microsoft.CodeAnalysis.LanguageServer.DotnetCliHelper] Using dotnet executable configured on the PATH
+2026-01-04 22:38:07.301 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Contract/Creel.Contract.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.332 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.336 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.AppHost/Creel.AppHost.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.339 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.342 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.AppHost.Tests/Creel.AppHost.Tests.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.344 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.346 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.348 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Application/Creel.Application.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.350 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj loaded by C# Dev Kit
+2026-01-04 22:38:07.692 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs:   Determining projects to restore...
+2026-01-04 22:38:09.389 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.csproj : error NU1101: Unable to find package runtime.arch-x64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org
+2026-01-04 22:38:09.707 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs:   Failed to restore /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.csproj (in 1.26 sec).
+2026-01-04 22:38:09.767 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: Failed to run restore on /tmp/roslyn-canonical-misc/1edb236b-f5f8-41ef-b123-a868e7c50cc0/Canonical.cs
+2026-01-04 22:38:09.767 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restore complete
+2026-01-04 22:38:09.771 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Completed (re)load of all projects in 00:00:07.5517623
+2026-01-07 09:21:00.625 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Services/Creel.Services.csproj loaded by C# Dev Kit
+2026-01-07 09:21:19.539 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.Services.Tests/Creel.Services.Tests.csproj loaded by C# Dev Kit
+2026-01-07 14:22:51.959 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Domain/Creel.Domain.csproj loaded by C# Dev Kit
+2026-01-07 19:30:03.392 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj loaded by C# Dev Kit
+2026-01-07 22:19:17.136 [info] Locating .NET runtime version 9.0.1
+2026-01-07 22:19:17.819 [info] Dotnet path: /usr/share/dotnet/dotnet
+2026-01-07 22:19:17.819 [info] Activating C# + C# Dev Kit...
+2026-01-07 22:19:18.184 [info] [stdout] info: Program[0]
+      Server started with process ID 212548
+
+2026-01-07 22:19:18.911 [info] [stdout] {"pipeName":"/tmp/f3c31c64.sock"}
+
+2026-01-07 22:19:18.911 [info] received named pipe information from server
+2026-01-07 22:19:18.912 [info] client has connected to server
+2026-01-07 22:19:19.090 [info] [Program] Language server initialized
+2026-01-07 22:19:21.644 [info] [textDocument/_vs_getProjectContexts] [Microsoft.CodeAnalysis.MSBuild.BuildHostProcessManager] .NET BuildHost started from /home/dcap/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer reloading to start from /usr/share/dotnet/dotnet to match necessary SDK location.
+2026-01-07 22:19:24.653 [warning] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Project /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.csproj has unresolved dependencies
+2026-01-07 22:19:24.864 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Successfully completed load of /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.cs
+2026-01-07 22:19:24.886 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restoring Canonical.cs: Running dotnet restore on /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.cs
+2026-01-07 22:19:24.890 [info] [textDocument/_vs_getProjectContexts] [Microsoft.CodeAnalysis.LanguageServer.DotnetCliHelper] Using dotnet executable configured on the PATH
+2026-01-07 22:19:25.861 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Contract/Creel.Contract.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.884 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.887 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.AppHost/Creel.AppHost.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.890 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.893 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Services/Creel.Services.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.895 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Domain/Creel.Domain.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.897 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.899 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.Services.Tests/Creel.Services.Tests.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.902 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.Application/Creel.Application.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.906 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj loaded by C# Dev Kit
+2026-01-07 22:19:25.907 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj loaded by C# Dev Kit
+2026-01-07 22:19:26.116 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restoring Canonical.cs:   Determining projects to restore...
+2026-01-07 22:19:27.674 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restoring Canonical.cs: /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.csproj : error NU1101: Unable to find package runtime.arch-x64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org
+2026-01-07 22:19:28.086 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restoring Canonical.cs:   Failed to restore /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.csproj (in 1.41 sec).
+2026-01-07 22:19:28.135 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restoring Canonical.cs: Failed to run restore on /tmp/roslyn-canonical-misc/9e284257-4bdc-46b1-84ff-a209baeaf070/Canonical.cs
+2026-01-07 22:19:28.136 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Restore complete
+2026-01-07 22:19:28.148 [info] [textDocument/_vs_getProjectContexts] [LanguageServerProjectLoader] Completed (re)load of all projects in 00:00:07.2827232

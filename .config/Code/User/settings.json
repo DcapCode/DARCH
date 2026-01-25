@@ -1,0 +1,14 @@
+{
+    "chat.disableAIFeatures": true,
+    "editor.fontFamily": "'Hurmit Nerd Font', 'monospace'",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Hurmit Nerd Font",
+    "editor.semanticHighlighting.enabled": true,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.formatOnSave": true,
+    "telemetry.telemetryLevel": "off",
+    "workbench.enableExperiments": false,
+    "workbench.startupEditor": "none",
+}

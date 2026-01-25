@@ -1,0 +1,100 @@
+﻿01/25/2026 21:42:12 Central European Standard Time : Information : Local timezone is (UTC+01:00) Central European Time (Stockholm)
+01/25/2026 21:42:12 Central European Standard Time: Information : 3 :Listening started.
+01/25/2026 21:42:12 Central European Standard Time: Information : 7 :{"id":2,"method":"handshake"}
+01/25/2026 21:42:12 Central European Standard Time: Information : 6 :Received request "2" for method "handshake".
+01/25/2026 21:42:12 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+01/25/2026 21:42:12 Central European Standard Time : Start : handshake
+01/25/2026 21:42:12 Central European Standard Time : Stop : handshake
+01/25/2026 21:42:12 Central European Standard Time: Information : 8 :{"id":2}
+01/25/2026 21:42:12 Central European Standard Time: Information : 7 :{"id":4,"method":"requestServiceChannel"}
+01/25/2026 21:42:12 Central European Standard Time: Information : 6 :Received request "4" for method "requestServiceChannel".
+01/25/2026 21:42:12 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:12 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:12 Central European Standard Time: Information : 7 :{"id":3,"method":"requestServiceChannel"}
+01/25/2026 21:42:12 Central European Standard Time: Information : 6 :Received request "3" for method "requestServiceChannel".
+01/25/2026 21:42:12 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:12 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:12 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:12 Central European Standard Time: Information : 8 :{"id":4}
+01/25/2026 21:42:12 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:12 Central European Standard Time: Information : 8 :{"id":3}
+01/25/2026 21:42:13 Central European Standard Time: Information : 7 :{"id":5,"method":"requestServiceChannel"}
+01/25/2026 21:42:13 Central European Standard Time: Information : 6 :Received request "5" for method "requestServiceChannel".
+01/25/2026 21:42:13 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:13 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time: Information : 8 :{"id":5}
+01/25/2026 21:42:13 Central European Standard Time: Information : 7 :{"id":6,"method":"requestServiceChannel"}
+01/25/2026 21:42:13 Central European Standard Time: Information : 6 :Received request "6" for method "requestServiceChannel".
+01/25/2026 21:42:13 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:13 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time: Information : 8 :{"id":6}
+01/25/2026 21:42:13 Central European Standard Time: Information : 7 :{"id":7,"method":"requestServiceChannel"}
+01/25/2026 21:42:13 Central European Standard Time: Information : 6 :Received request "7" for method "requestServiceChannel".
+01/25/2026 21:42:13 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:13 Central European Standard Time : Transfer : Transfer, relatedActivityId=2ac435c5-8f31-461f-8f83-b644f6b9d358
+01/25/2026 21:42:13 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:13 Central European Standard Time : Transfer : Transfer, relatedActivityId=eb6b932c-fe3b-4c69-92e1-dc2970f492d0
+01/25/2026 21:42:13 Central European Standard Time: Information : 8 :{"id":7}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":8,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "8" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":8}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":9,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "9" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":10,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "10" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":10}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":11,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "11" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":11}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":12,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "12" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":12}
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":9}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":13,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "13" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":13}
+01/25/2026 21:42:15 Central European Standard Time: Information : 7 :{"id":14,"method":"requestServiceChannel"}
+01/25/2026 21:42:15 Central European Standard Time: Information : 6 :Received request "14" for method "requestServiceChannel".
+01/25/2026 21:42:15 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:15 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:15 Central European Standard Time: Information : 8 :{"id":14}
+01/25/2026 21:42:18 Central European Standard Time: Information : 7 :{"id":15,"method":"requestServiceChannel"}
+01/25/2026 21:42:18 Central European Standard Time: Information : 6 :Received request "15" for method "requestServiceChannel".
+01/25/2026 21:42:18 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:18 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:18 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:18 Central European Standard Time: Information : 8 :{"id":15}
+01/25/2026 21:42:18 Central European Standard Time: Information : 7 :{"id":16,"method":"requestServiceChannel"}
+01/25/2026 21:42:18 Central European Standard Time: Information : 6 :Received request "16" for method "requestServiceChannel".
+01/25/2026 21:42:18 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:42:18 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:42:18 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:42:18 Central European Standard Time: Information : 8 :{"id":16}
+01/25/2026 21:43:22 Central European Standard Time: Information : 7 :{"id":17,"method":"requestServiceChannel"}
+01/25/2026 21:43:22 Central European Standard Time: Information : 6 :Received request "17" for method "requestServiceChannel".
+01/25/2026 21:43:22 Central European Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+01/25/2026 21:43:22 Central European Standard Time : Start : requestServiceChannel
+01/25/2026 21:43:22 Central European Standard Time : Stop : requestServiceChannel
+01/25/2026 21:43:22 Central European Standard Time: Information : 8 :{"id":17}

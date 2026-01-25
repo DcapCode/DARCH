@@ -1,0 +1,24 @@
+2026-01-25 21:42:08.829 [info] Locating .NET runtime version 9.0.1
+2026-01-25 21:42:09.130 [info] Dotnet path: /usr/share/dotnet/dotnet
+2026-01-25 21:42:09.130 [info] Activating C# + C# Dev Kit...
+2026-01-25 21:42:09.683 [info] [stdout] info: Program[0]
+      Server started with process ID 550077
+
+2026-01-25 21:42:10.615 [info] [stdout] {"pipeName":"/tmp/1c051a41.sock"}
+
+2026-01-25 21:42:10.615 [info] received named pipe information from server
+2026-01-25 21:42:10.616 [info] client has connected to server
+2026-01-25 21:42:10.826 [info] [Program] Language server initialized
+2026-01-25 21:42:15.706 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/git/Creel/src/Creel.Api/Creel.Api.csproj loaded by C# Dev Kit
+2026-01-25 21:43:22.749 [info] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/dcap/git/Creel/tests/Creel.Api.Tests/Creel.Api.Tests.csproj loaded by C# Dev Kit
+2026-01-25 21:43:23.188 [info] [textDocument/diagnostic] [Microsoft.CodeAnalysis.MSBuild.BuildHostProcessManager] .NET BuildHost started from /home/dcap/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer reloading to start from /usr/share/dotnet/dotnet to match necessary SDK location.
+2026-01-25 21:43:25.048 [warning] [textDocument/diagnostic] [LanguageServerProjectLoader] Project /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.csproj has unresolved dependencies
+2026-01-25 21:43:25.092 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Successfully completed load of /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.cs
+2026-01-25 21:43:25.106 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: Running dotnet restore on /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.cs
+2026-01-25 21:43:25.108 [info] [textDocument/diagnostic] [Microsoft.CodeAnalysis.LanguageServer.DotnetCliHelper] Using dotnet executable configured on the PATH
+2026-01-25 21:43:26.266 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs:   Determining projects to restore...
+2026-01-25 21:43:27.284 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.csproj : error NU1101: Unable to find package runtime.arch-x64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org
+2026-01-25 21:43:27.502 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs:   Failed to restore /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.csproj (in 805 ms).
+2026-01-25 21:43:27.529 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restoring Canonical.cs: Failed to run restore on /tmp/roslyn-canonical-misc/00256bc5-2e78-4c51-80ef-bc70036d4f66/Canonical.cs
+2026-01-25 21:43:27.529 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Restore complete
+2026-01-25 21:43:27.530 [info] [textDocument/diagnostic] [LanguageServerProjectLoader] Completed (re)load of all projects in 00:00:04.8816383

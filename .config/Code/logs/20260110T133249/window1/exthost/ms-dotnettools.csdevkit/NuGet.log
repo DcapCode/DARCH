@@ -1,0 +1,152 @@
+2026-01-10 13:33:27.601 [info]   Determining projects to restore...
+2026-01-10 13:33:29.172 [info]   All projects are up-to-date for restore.
+2026-01-12 07:49:57.482 [info]   Determining projects to restore...
+2026-01-12 07:50:06.687 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 2.85 sec).
+2026-01-12 07:50:06.706 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 2.85 sec).
+2026-01-12 07:50:06.761 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 2.87 sec).
+2026-01-12 07:50:06.780 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 2.93 sec).
+2026-01-12 07:50:06.902 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 3.11 sec).
+2026-01-12 07:50:06.911 [info]   6 of 11 projects are up-to-date for restore.
+2026-01-12 07:54:15.831 [info]   Determining projects to restore...
+2026-01-12 07:54:20.919 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 2.3 sec).
+2026-01-12 07:54:20.937 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 2.31 sec).
+2026-01-12 07:54:20.965 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 2.31 sec).
+2026-01-12 07:54:20.984 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 2.42 sec).
+2026-01-12 07:54:21.041 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 2.59 sec).
+2026-01-12 07:54:21.064 [info]   6 of 11 projects are up-to-date for restore.
+2026-01-13 21:56:47.312 [info]   Determining projects to restore...
+2026-01-13 21:56:48.959 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 756 ms).
+2026-01-13 21:56:48.964 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 754 ms).
+2026-01-13 21:56:48.965 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 759 ms).
+2026-01-13 21:56:48.968 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 773 ms).
+2026-01-13 21:56:49.028 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 839 ms).
+2026-01-13 21:56:49.030 [info]   6 of 11 projects are up-to-date for restore.
+2026-01-13 22:01:05.268 [info]   Determining projects to restore...
+2026-01-13 22:01:06.594 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 657 ms).
+2026-01-13 22:01:06.595 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 679 ms).
+2026-01-13 22:01:06.627 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 730 ms).
+2026-01-13 22:01:06.673 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 775 ms).
+2026-01-13 22:01:06.677 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-13 22:06:09.616 [info]   Determining projects to restore...
+2026-01-13 22:06:10.720 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 517 ms).
+  Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 519 ms).
+  Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 519 ms).
+2026-01-13 22:06:10.787 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 579 ms).
+2026-01-13 22:06:10.841 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 635 ms).
+  6 of 11 projects are up-to-date for restore.
+2026-01-13 22:07:24.731 [info]   Determining projects to restore...
+2026-01-13 22:07:25.712 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 420 ms).
+2026-01-13 22:07:25.714 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 420 ms).
+  Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 429 ms).
+2026-01-13 22:07:25.715 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 430 ms).
+2026-01-13 22:07:25.715 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 420 ms).
+2026-01-13 22:07:25.717 [info]   6 of 11 projects are up-to-date for restore.
+2026-01-15 22:07:14.898 [info]   Determining projects to restore...
+2026-01-15 22:07:16.743 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 1.04 sec).
+  Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.06 sec).
+2026-01-15 22:07:16.757 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.09 sec).
+2026-01-15 22:07:16.824 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.15 sec).
+2026-01-15 22:07:16.830 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:26:00.740 [info]   Determining projects to restore...
+2026-01-15 22:26:09.584 [info]   Restored /home/dcap/onedev/Creel/src/Creel.ServiceDefaults/Creel.ServiceDefaults.csproj (in 2.98 sec).
+2026-01-15 22:26:09.614 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 3.08 sec).
+2026-01-15 22:26:09.720 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 3.21 sec).
+2026-01-15 22:26:09.852 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 3.45 sec).
+2026-01-15 22:26:09.874 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:26:48.460 [info]   Determining projects to restore...
+2026-01-15 22:26:52.735 [info] /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to se
+2026-01-15 22:26:52.735 [info] lect a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.
+2026-01-15 22:26:52.736 [info] 2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:26:52.903 [info] /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.EnvironmentVariables from 10.0.2 to 10.0.1. Reference the package directly from the project to
+2026-01-15 22:26:52.904 [info]  select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.EnvironmentVari
+2026-01-15 22:26:52.904 [info] ables (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.s
+2026-01-15 22:26:52.904 [info] lnx]
+2026-01-15 22:26:52.905 [info] /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:26:52.986 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 1.71 sec).
+2026-01-15 22:26:52.994 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.63 sec).
+2026-01-15 22:26:53.007 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.72 sec).
+2026-01-15 22:26:53.960 [info] /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.EnvironmentVariables from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:26:54.033 [info]   Failed to restore /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 2.75 sec).
+2026-01-15 22:26:54.056 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:27:15.212 [info]   Determining projects to restore...
+2026-01-15 22:27:18.859 [info] /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.
+2026-01-15 22:27:18.859 [info] 2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:18.862 [info] /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:18.970 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.16 sec).
+  Failed to restore /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 1.16 sec).
+2026-01-15 22:27:18.975 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.16 sec).
+2026-01-15 22:27:18.981 [info]   Failed to restore /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.16 sec).
+2026-01-15 22:27:18.988 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:27:23.380 [info]   Determining projects to restore...
+2026-01-15 22:27:27.183 [info] /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:27.188 [info] /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj : error NU1605:  Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:27.199 [info] /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj : error NU1605:  Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:27.281 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.11 sec).
+2026-01-15 22:27:27.290 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 1.1 sec).
+2026-01-15 22:27:27.293 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.1 sec).
+2026-01-15 22:27:27.302 [info]   Failed to restore /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.1 sec).
+2026-01-15 22:27:27.310 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:27:32.595 [info]   Determining projects to restore...
+2026-01-15 22:27:36.146 [info] /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version.  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2)  [/home/dcap/onedev/Creel/Creel.slnx]
+/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj : error NU1605:  Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0) [/home/dcap/onedev/Creel/Creel.slnx]
+2026-01-15 22:27:36.254 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj (in 1.38 sec).
+2026-01-15 22:27:36.266 [info]   Failed to restore /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.37 sec).
+2026-01-15 22:27:36.275 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.38 sec).
+2026-01-15 22:27:36.280 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.41 sec).
+2026-01-15 22:27:36.287 [info]   7 of 11 projects are up-to-date for restore.
+2026-01-15 22:28:08.661 [info]   Determining projects to restore...
+2026-01-15 22:28:11.842 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 1.78 sec).
+2026-01-15 22:28:11.851 [info]   10 of 11 projects are up-to-date for restore.
+2026-01-15 22:29:06.603 [info]   Determining projects to restore...
+2026-01-15 22:29:10.360 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api/Creel.Api.csproj (in 1.11 sec).
+2026-01-15 22:29:10.373 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.11 sec).
+2026-01-15 22:29:10.381 [info]   9 of 11 projects are up-to-date for restore.
+2026-01-15 22:29:47.331 [info]   Determining projects to restore...
+2026-01-15 22:29:51.190 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 931 ms).
+2026-01-15 22:29:51.196 [info]   10 of 11 projects are up-to-date for restore.
+2026-01-15 22:29:54.550 [info]   Determining projects to restore...
+2026-01-15 22:29:56.402 [info]   Restored /home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj (in 720 ms).
+2026-01-15 22:29:56.408 [info]   10 of 11 projects are up-to-date for restore.
+2026-01-15 22:30:14.299 [info]   Determining projects to restore...
+2026-01-15 22:30:17.891 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.3 sec).
+2026-01-15 22:30:17.897 [info]   10 of 11 projects are up-to-date for restore.
+2026-01-15 22:30:22.000 [info]   Determining projects to restore...
+2026-01-15 22:30:24.356 [info]   Restored /home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj (in 1.05 sec).
+2026-01-15 22:30:24.363 [info]   10 of 11 projects are up-to-date for restore.

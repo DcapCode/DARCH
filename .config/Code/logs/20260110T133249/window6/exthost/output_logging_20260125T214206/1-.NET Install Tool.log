@@ -1,0 +1,6 @@
+dotnet-runtime-library requested to download the ASP.NET Core.
+Downloading .NET version(s) 9.0.12~x64~aspnetcore .... Done!
+.NET 9.0.12~x64~aspnetcore executable path: /home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.12~x64~aspnetcore/dotnet
+
+Removed reference of {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","installMode":"aspnetcore","isGlobal":false,"architecture":"x64"} in path /home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore, but did not uninstall.
+Other dependents remain.

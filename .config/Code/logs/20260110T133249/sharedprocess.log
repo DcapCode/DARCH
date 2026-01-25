@@ -1,0 +1,51 @@
+2026-01-10 13:32:51.751 [info] Deleted marked for removal extension from disk rust-lang.rust-analyzer /home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64
+2026-01-10 13:32:51.770 [info] Deleted marked for removal extension from disk rooveterinaryinc.roo-cline /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.2
+2026-01-10 13:32:51.773 [info] Deleted marked for removal extension from disk rooveterinaryinc.roo-cline /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.3
+2026-01-10 13:32:55.209 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2026-01-10 13:32:55.256 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-10 13:32:57.907 [info] Extension signature verification result for rooveterinaryinc.roo-cline: Success. Internal Code: 0. Executed: true. Duration: 1595ms.
+2026-01-10 13:33:12.322 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.39.2: rooveterinaryinc.roo-cline
+2026-01-10 13:33:14.627 [info] Renamed to /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.39.2
+2026-01-10 13:33:24.468 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.39.1
+2026-01-10 13:33:24.491 [info] Extension installed successfully: rooveterinaryinc.roo-cline vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-11 15:32:28.377 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2026-01-11 15:32:28.461 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 15:32:30.836 [info] Extension signature verification result for rooveterinaryinc.roo-cline: Success. Internal Code: 0. Executed: true. Duration: 921ms.
+2026-01-11 15:32:33.031 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.39.3: rooveterinaryinc.roo-cline
+2026-01-11 15:32:33.095 [info] Renamed to /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.39.3
+2026-01-11 15:32:33.119 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.39.2
+2026-01-11 15:32:33.122 [info] Extension installed successfully: rooveterinaryinc.roo-cline vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-12 19:58:29.119 [info] Getting Manifest... rust-lang.rust-analyzer
+2026-01-12 19:58:29.411 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-12 19:58:31.930 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Internal Code: 0. Executed: true. Duration: 731ms.
+2026-01-12 19:58:32.204 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2753-linux-x64: rust-lang.rust-analyzer
+2026-01-12 19:58:32.217 [info] Renamed to /home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2753-linux-x64
+2026-01-12 19:58:32.242 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2743-linux-x64
+2026-01-12 19:58:32.252 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-14 21:07:25.885 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2026-01-14 21:07:25.943 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-14 21:07:27.724 [info] Extension signature verification result for rooveterinaryinc.roo-cline: Success. Internal Code: 0. Executed: true. Duration: 822ms.
+2026-01-14 21:07:29.554 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.40.1: rooveterinaryinc.roo-cline
+2026-01-14 21:07:29.603 [info] Renamed to /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.40.1
+2026-01-14 21:07:29.630 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.39.3
+2026-01-14 21:07:29.632 [info] Extension installed successfully: rooveterinaryinc.roo-cline vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-25 21:38:03.691 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2026-01-25 21:38:03.692 [info] Getting Manifest... rust-lang.rust-analyzer
+2026-01-25 21:38:03.757 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-25 21:38:03.794 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-25 21:38:07.012 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Internal Code: 0. Executed: true. Duration: 1390ms.
+2026-01-25 21:38:07.015 [info] Extension signature verification result for rooveterinaryinc.roo-cline: Success. Internal Code: 0. Executed: true. Duration: 1583ms.
+2026-01-25 21:38:07.502 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2761-linux-x64: rust-lang.rust-analyzer
+2026-01-25 21:38:07.516 [info] Renamed to /home/dcap/.vscode/extensions/rust-lang.rust-analyzer-0.3.2761-linux-x64
+2026-01-25 21:38:07.546 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2753-linux-x64
+2026-01-25 21:38:07.556 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-25 21:38:09.313 [info] Extracted extension to file:///home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.43.0: rooveterinaryinc.roo-cline
+2026-01-25 21:38:09.370 [info] Renamed to /home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.43.0
+2026-01-25 21:38:09.395 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.40.1
+2026-01-25 21:38:09.397 [info] Extension installed successfully: rooveterinaryinc.roo-cline vscode-userdata:/home/dcap/.vscode/extensions/extensions.json
+2026-01-25 21:45:25.907 [info] Getting Manifest... sst-dev.opencode
+2026-01-25 21:45:25.946 [info] Installing extension: sst-dev.opencode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dcap/.vscode/extensions/extensions.json","path":"/home/dcap/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2026-01-25 21:45:27.123 [info] Extension signature verification result for sst-dev.opencode: Success. Internal Code: 0. Executed: true. Duration: 795ms.
+2026-01-25 21:45:27.132 [info] Extracted extension to file:///home/dcap/.vscode/extensions/sst-dev.opencode-0.0.13: sst-dev.opencode
+2026-01-25 21:45:27.135 [info] Renamed to /home/dcap/.vscode/extensions/sst-dev.opencode-0.0.13
+2026-01-25 21:45:27.155 [info] Extension installed successfully: sst-dev.opencode vscode-userdata:/home/dcap/.vscode/extensions/extensions.json

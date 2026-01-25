@@ -1,0 +1,99 @@
+2026-01-04 22:37:51.105 [info] Started local extension host with pid 1969.
+2026-01-04 22:37:53.276 [error] [Extension Host] (node:1969) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-04 22:37:54.791 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-04 22:37:55.095 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/dcap/onedev/Creel/.git/.gitstatus.onLGHk' failed: No such file or directory (EUNKNOWN) (path: /home/dcap/onedev/Creel)
+2026-01-04 22:37:55.107 [error] [File Watcher (universal)] inotify_add_watch on '/home/dcap/onedev/Creel/.git/.gitstatus.onLGHk' failed: No such file or directory
+2026-01-04 22:37:55.116 [info] Auto updating outdated extensions. rooveterinaryinc.roo-cline
+2026-01-04 22:37:55.176 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-04 22:37:55.324 [error] [Extension Host] (node:1969) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2026-01-04 22:37:55.818 [info] [perf] Render performance baseline is 47ms
+2026-01-04 22:38:01.968 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-04 22:38:02.581 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-04 22:38:02.588 [error] [Extension Host] Server "chrome-devtools" stderr: npm error code E404
+
+2026-01-04 22:38:02.589 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 Not Found - GET https://registry.npmjs.org/@modelcontextprotocol%2fserver-chrome-devtools - Not found
+npm error 404
+
+2026-01-04 22:38:02.594 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404  The requested resource '@modelcontextprotocol/server-chrome-devtools@*' could not be found or you do not have permission to access it.
+npm error 404
+
+2026-01-04 22:38:02.595 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 Note that you can also install from a
+
+2026-01-04 22:38:02.595 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 tarball, folder, http url, or git url.
+
+2026-01-04 22:38:02.595 [error] [Extension Host] Server "chrome-devtools" stderr: npm error A complete log of this run can be found in: /home/dcap/.npm/_logs/2026-01-04T21_38_00_844Z-debug-0.log
+
+2026-01-04 22:38:02.614 [error] [Extension Host] Failed to connect to new MCP server chrome-devtools: McpError: MCP error -32000: Connection closed
+	at b7e._onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.2/dist/extension.js:5559:13527)
+	at _transport.onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.2/dist/extension.js:5559:13052)
+	at ChildProcess.<anonymous> (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.2/dist/extension.js:5561:1466)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-04 23:07:57.249 [error] Error: The editor could not be opened because the file was not found.
+    at fAe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:81749)
+    at async fAe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:80907)
+    at async nQe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:58490)
+    at async nQe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:57050)
+    at async nQe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:56132)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:23355
+    at async ooe.vb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2232:23982)
+2026-01-07 04:11:02.314 [info] Auto updating outdated extensions. rust-lang.rust-analyzer
+2026-01-07 17:15:48.272 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs' (Error: File Modified Since) file:///home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs
+2026-01-07 17:15:48.307 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs' (Error: File Modified Since) file:///home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs
+2026-01-07 17:15:51.064 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs' (Error: File Modified Since) file:///home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs
+2026-01-07 17:15:53.953 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs' (Error: File Modified Since) file:///home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs
+2026-01-07 17:16:05.056 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs' (Error: File Modified Since) file:///home/dcap/onedev/Creel/src/Creel.Contract/Requests/Disable2FARequest.cs
+2026-01-07 22:19:13.923 [info] Started local extension host with pid 212340.
+2026-01-07 22:19:15.603 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-07 22:19:15.654 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-07 22:19:16.267 [error] [Extension Host] (node:212340) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-07 22:19:16.623 [error] [Extension Host] (node:212340) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2026-01-07 22:19:16.669 [info] [perf] Render performance baseline is 26ms
+2026-01-07 22:19:21.564 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-07 22:19:22.080 [error] [Extension Host] Server "chrome-devtools" stderr: npm notice Access token expired or revoked. Please try logging in again.
+
+2026-01-07 22:19:22.095 [error] [Extension Host] Server "chrome-devtools" stderr: npm error code E404
+
+2026-01-07 22:19:22.102 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 Not Found - GET https://registry.npmjs.org/@modelcontextprotocol%2fserver-chrome-devtools - Not found
+
+2026-01-07 22:19:22.106 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404
+npm error 404  The requested resource '@modelcontextprotocol/server-chrome-devtools@*' could not be found or you do not have permission to access it.
+npm error 404
+npm error 404 Note that you can also install from a
+
+2026-01-07 22:19:22.107 [error] [Extension Host] Server "chrome-devtools" stderr: npm error 404 tarball, folder, http url, or git url.
+
+2026-01-07 22:19:22.107 [error] [Extension Host] Server "chrome-devtools" stderr: npm error A complete log of this run can be found in: /home/dcap/.npm/_logs/2026-01-07T21_19_20_792Z-debug-0.log
+
+2026-01-07 22:19:22.128 [error] [Extension Host] Failed to connect to new MCP server chrome-devtools: McpError: MCP error -32000: Connection closed
+	at N7e._onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.3/dist/extension.js:5565:13527)
+	at _transport.onclose (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.3/dist/extension.js:5565:13052)
+	at ChildProcess.<anonymous> (/home/dcap/.vscode/extensions/rooveterinaryinc.roo-cline-3.38.3/dist/extension.js:5567:1466)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-07 22:19:23.710 [error] [Extension Host] Server "shadcn" stderr: npm warn exec The following package was not found and will be installed: shadcn@3.6.3
+
+2026-01-08 23:36:35.406 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-01-09 09:40:58.200 [info] Auto updating outdated extensions. rooveterinaryinc.roo-cline
+2026-01-09 22:14:20.541 [error] Soft Assertion Failed: Error: Soft Assertion Failed
+    at APt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:338)
+    at new rFe (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:422:11799)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:422:4447
+    at Array.map (<anonymous>)
+    at N8._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:422:4416)
+    at N8.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:5808)
+    at N8.endUpdate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:6222)
+    at R8.finish (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:105047)
+    at qi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:104336)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:133216)

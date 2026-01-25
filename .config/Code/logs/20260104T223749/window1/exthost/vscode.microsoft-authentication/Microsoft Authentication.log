@@ -1,0 +1,30 @@
+2026-01-04 22:37:57.744 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-01-04 22:37:57.812 [info] [getSessions] [all] starting
+2026-01-04 22:37:57.812 [info] [getSessions] [all] returned 0 session(s)
+2026-01-04 22:37:57.812 [info] [getSessions] [all] starting
+2026-01-04 22:37:57.812 [info] [getSessions] [all] returned 0 session(s)
+2026-01-04 22:37:57.812 [info] [getSessions] [all] starting
+2026-01-04 22:37:57.812 [info] [getSessions] [all] returned 0 session(s)
+2026-01-04 22:37:57.815 [info] [getSessions] [VSCODE_TENANT:organizations] starting
+2026-01-04 22:37:57.815 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-01-04 22:37:57.823 [info] [getSessions] [VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-04 22:37:57.823 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-01-04 22:37:57.823 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-04 22:37:57.843 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-01-04 22:37:57.843 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-07 22:19:12.995 [info] Microsoft Authentication is deactivating...
+2026-01-07 22:19:17.991 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-01-07 22:19:18.044 [info] [getSessions] [all] starting
+2026-01-07 22:19:18.044 [info] [getSessions] [all] returned 0 session(s)
+2026-01-07 22:19:18.044 [info] [getSessions] [all] starting
+2026-01-07 22:19:18.044 [info] [getSessions] [all] returned 0 session(s)
+2026-01-07 22:19:18.044 [info] [getSessions] [all] starting
+2026-01-07 22:19:18.044 [info] [getSessions] [all] returned 0 session(s)
+2026-01-07 22:19:18.061 [info] [getSessions] [VSCODE_TENANT:organizations] starting
+2026-01-07 22:19:18.061 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-01-07 22:19:18.075 [info] [getSessions] [VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-07 22:19:18.076 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-01-07 22:19:18.076 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-07 22:19:18.094 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-01-07 22:19:18.094 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-01-10 13:26:58.217 [info] Microsoft Authentication is deactivating...

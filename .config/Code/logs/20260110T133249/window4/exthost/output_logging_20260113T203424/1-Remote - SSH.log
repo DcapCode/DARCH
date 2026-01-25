@@ -1,0 +1,175 @@
+[20:34:24.666] Log Level: 2
+[20:34:24.672] SSH Resolver called for "ssh-remote+100.64.0.1", attempt 1
+[20:34:24.678] remote.SSH.useLocalServer = true
+[20:34:24.679] remote.SSH.useExecServer = true
+[20:34:24.679] remote.SSH.bindHost = {}
+[20:34:24.680] remote.SSH.path = 
+[20:34:24.681] remote.SSH.configFile = 
+[20:34:24.681] remote.SSH.useFlock = true
+[20:34:24.682] remote.SSH.lockfilesInTmp = false
+[20:34:24.683] remote.SSH.localServerDownload = auto
+[20:34:24.683] remote.SSH.remoteServerListenOnSocket = false
+[20:34:24.684] remote.SSH.defaultExtensions = []
+[20:34:24.684] remote.SSH.defaultExtensionsIfInstalledLocally = []
+[20:34:24.685] remote.SSH.loglevel = 2
+[20:34:24.687] remote.SSH.enableDynamicForwarding = true
+[20:34:24.687] remote.SSH.enableRemoteCommand = false
+[20:34:24.688] remote.SSH.serverPickPortsFromRange = {}
+[20:34:24.688] remote.SSH.serverInstallPath = {}
+[20:34:24.689] remote.SSH.permitPtyAllocation = false
+[20:34:24.689] remote.SSH.preferredLocalPortRange = undefined
+[20:34:24.690] remote.SSH.useCurlAndWgetConfigurationFiles = false
+[20:34:24.690] remote.SSH.experimental.chat = true
+[20:34:24.691] remote.SSH.experimental.enhancedSessionLogs = true
+[20:34:24.692] remote.SSH.httpProxy = {"*":""}
+[20:34:24.692] remote.SSH.httpsProxy = {"*":""}
+[20:34:24.702] VS Code version: 1.107.1
+[20:34:24.703] Remote-SSH version: remote-ssh@0.122.0
+[20:34:24.703] linux x64
+[20:34:24.706] SSH Resolver called for host: 100.64.0.1
+[20:34:24.706] Setting up SSH remote "100.64.0.1"
+[20:34:24.714] Acquiring local install lock: /tmp/vscode-remote-ssh-9c892abf-install.lock
+[20:34:24.717] Looking for existing server data file at /home/dcap/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-9c892abf-994fd12f8d3a5aa16f17d42c041e5809167e845a-0.122.0-es/data.json
+[20:34:24.718] No existing data file
+[20:34:24.718] Using commit id "994fd12f8d3a5aa16f17d42c041e5809167e845a" and quality "stable" for server
+[20:34:24.718] Extensions to install: 
+[20:34:24.723] Install and start server if needed
+[20:34:24.727] PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+[20:34:24.727] Checking ssh with "ssh -V"
+[20:34:24.736] > OpenSSH_10.2p1, OpenSSL 3.6.0 1 Oct 2025
+
+[20:34:24.739] askpass server listening on /run/user/1000/vscode-ssh-askpass-fd4236bdabc2322a676a19fef0aae19b8b4e4ad2.sock
+[20:34:24.740] Spawning local server with {"serverId":1,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-038e3c7ef20aec8514ede6271bdbd33292e1a269.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","43355","-o","ConnectTimeout=15","100.64.0.1"],"serverDataFolderName":".vscode-server","dataFilePath":"/home/dcap/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-9c892abf-994fd12f8d3a5aa16f17d42c041e5809167e845a-0.122.0-es/data.json"}
+[20:34:24.740] Local server env: {"SHELL":"/usr/bin/zsh","DISPLAY":":1","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_EXTRA_ARGS":"","VSCODE_SSH_ASKPASS_MAIN":"/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-fd4236bdabc2322a676a19fef0aae19b8b4e4ad2.sock"}
+[20:34:24.742] Spawned 494699
+[20:34:24.743] Using connect timeout of 17 seconds
+[20:34:24.845] > local-server-1> Running ssh connection command: ssh -v -T -D 43355 -o ConnectTimeout=15 100.64.0.1
+[20:34:24.849] > local-server-1> Spawned ssh, pid=494711
+[20:34:24.925] stderr> debug1: Server host key: ssh-ed25519 SHA256:LCIkdURbJUVYZ0RVN6Raii0NkrUhCX/JTpkKTzvHJtQ
+[20:34:25.001] stderr> Authenticated to 100.64.0.1 ([100.64.0.1]:1000) using "publickey".
+[20:34:25.419] > Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.8.0-88-generic x86_64)
+> 
+>  * Documentation:  https://help.ubuntu.com
+>  * Management:     https://landscape.canonical.com
+>  * Support:        https://ubuntu.com/pro
+> 
+>  System information as of Tue Jan 13 07:34:25 PM UTC 2026
+> 
+>   System load:  0.44              Temperature:             53.0 C
+>   Usage of /:   41.2% of 1.79TB   Processes:               359
+>   Memory usage: 26%               Users logged in:         0
+>   Swap usage:   1%                IPv4 address for enp2s0: 192.168.0.160
+> 
+> 
+> Expanded Security Maintenance for Applications is not enabled.
+> 
+> 47 updates can be applied immediately.
+> 2 of these updates are standard security updates.
+> To see these additional updates run: apt list --upgradable
+> 
+> Enable ESM Apps to receive additional future security updates.
+> See https://ubuntu.com/esm or run: sudo pro status
+> 
+> 
+> *** System restart required ***
+[20:34:25.432] > ready: 539c72c9e3af
+[20:34:25.439] > Linux 6.8.0-88-generic #89-Ubuntu SMP PREEMPT_DYNAMIC Sat Oct 11 01:02:46 UTC 2025
+[20:34:25.439] Platform: linux
+[20:34:25.443] > /bin/bash
+[20:34:25.443] Parent Shell: bash
+[20:34:25.443] Parent Shell pid: 494699
+[20:34:25.444] Waiting for subshell to start
+[20:34:25.449] > 1409197
+[20:34:25.449] stdout -> '1409197'
+[20:34:25.449] sub-process detected
+[20:34:25.456] > 539c72c9e3af: running
+> Script executing under PID: 1409197
+[20:34:25.468] > Found existing installation at /home/dcap/.vscode-server...
+> Starting VS Code CLI...
+[20:34:25.469] > Removing old logfile at /home/dcap/.vscode-server/.cli.994fd12f8d3a5aa16f17d42c041e5809167e845a.log
+[20:34:25.472] > Spawned remote CLI: 1409215
+[20:34:25.477] > Waiting for server log...
+[20:34:25.511] > 539c72c9e3af: start
+> listeningOn==127.0.0.1:35265==
+> osReleaseId==ubuntu==
+> arch==x86_64==
+> vscodeArch==x64==
+> bitness==64==
+> tmpDir==/run/user/1000==
+> platform==linux==
+> unpackResult====
+> didLocalDownload==0==
+> downloadTime====
+> installTime====
+> serverStartTime==42==
+> execServerToken==a1a111a1-11aa-1aa1-a1a1-1111a111111a==
+> platformDownloadPath==cli-alpine-x64==
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> 539c72c9e3af: end
+[20:34:25.511] Received install output: 
+listeningOn==127.0.0.1:35265==
+osReleaseId==ubuntu==
+arch==x86_64==
+vscodeArch==x64==
+bitness==64==
+tmpDir==/run/user/1000==
+platform==linux==
+unpackResult====
+didLocalDownload==0==
+downloadTime====
+installTime====
+serverStartTime==42==
+execServerToken==a1a111a1-11aa-1aa1-a1a1-1111a111111a==
+platformDownloadPath==cli-alpine-x64==
+SSH_AUTH_SOCK====
+DISPLAY====
+
+[20:34:25.512] Remote server is listening on port 35265
+[20:34:25.512] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":35265},"osReleaseId":"ubuntu","arch":"x86_64","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","execServerToken":"a1a111a1-11aa-1aa1-a1a1-1111a111111a"},"serverStartTime":42,"installUnpackCode":""}
+[20:34:25.513] Persisting server connection details to /home/dcap/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-9c892abf-994fd12f8d3a5aa16f17d42c041e5809167e845a-0.122.0-es/data.json
+[20:34:25.515] Starting forwarding server. local port 40935 -> socksPort 43355 -> remotePort 35265
+[20:34:25.515] Forwarding server listening on port 40935
+[20:34:25.515] Waiting for ssh tunnel to be ready
+[20:34:25.517] [Forwarding server port 40935] Got connection 0
+[20:34:25.518] Tunneled port 35265 to local port 40935
+[20:34:25.518] Resolved "ssh-remote+100.64.0.1" to "port 40935"
+[20:34:25.527] Initizing new exec server for ssh-remote+100.64.0.1
+[20:34:25.527] Resolving exec server at port 40935
+[20:34:25.528] [Forwarding server port 40935] Got connection 1
+[20:34:25.587] Exec server for ssh-remote+100.64.0.1 created and cached
+[20:34:25.587] Extensions to install: 
+[20:34:25.593] ------
+
+
+
+
+[20:34:25.595] No hints found in the recent session.
+[20:34:25.689] [server] Checking /home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/log.txt and /home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/pid.txt for a running server...
+[20:34:25.689] [server] Installing and setting up Visual Studio Code Server...
+[20:34:25.690] [server] Server setup complete
+[20:34:25.690] [server] Starting server...
+[20:34:25.690] [server] Starting server with command... Command { std: "/home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/bin/code-server" "--connection-token=remotessh" "--accept-server-license-terms" "--start-server" "--enable-remote-auto-shutdown" "--socket-path=/tmp/code-3afedcdb-7e35-4b80-b75e-032c9dcaec5e", kill_on_drop: false }
+[20:34:25.797] [server] *
+[20:34:25.838] [server] * Visual Studio Code Server
+[20:34:25.838] [server] *
+[20:34:25.838] [server] * By using the software, you agree to
+[20:34:25.838] [server] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+[20:34:25.838] [server] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+[20:34:25.838] [server] *
+[20:34:25.838] [server] Server bound to /tmp/code-3afedcdb-7e35-4b80-b75e-032c9dcaec5e
+[20:34:25.839] [server] Extension host agent listening on /tmp/code-3afedcdb-7e35-4b80-b75e-032c9dcaec5e
+[20:34:25.839] [server] parsed location: "/tmp/code-3afedcdb-7e35-4b80-b75e-032c9dcaec5e"
+[20:34:25.839] [server] 
+[20:34:25.839] [server] Server started
+[20:34:25.851] [server] [19:34:25] 
+[20:34:25.892] [server] 
+[20:34:25.892] [server] 
+[20:34:25.892] [server] 
+[20:34:25.900] [server] [reconnection-grace-time] No CLI argument provided, using default: 10800000ms (10800s)
+[20:34:25.904] [server] [19:34:25] Extension host agent started.
+[20:34:25.970] [server] [19:34:25] [<unknown>][8df62498][ExtensionHostConnection] New connection established.
+[20:34:26.011] [server] [19:34:25] [<unknown>][fb57486b][ManagementConnection] New connection established.
+[20:34:26.091] [server] [19:34:26] [<unknown>][8df62498][ExtensionHostConnection] <1409297> Launched Extension Host Process.
+[20:34:26.356] [server] [19:34:26] [<unknown>][8df62498][ExtensionHostConnection] <1409297> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+[20:34:26.356] [server] 

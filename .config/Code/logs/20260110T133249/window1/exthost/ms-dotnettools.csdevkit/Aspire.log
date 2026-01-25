@@ -1,0 +1,20 @@
+2026-01-10 13:33:30.156 [info] VSCodeAspireServerHost created
+2026-01-10 13:33:30.170 [info] VSCodeAspireSessionManager created
+2026-01-10 13:33:30.175 [info] AspireLaunchProfileHandler created for project: /home/dcap/onedev/Creel/src/Creel.AppHost/Creel.AppHost.csproj
+2026-01-15 22:05:30.352 [info] GetLaunchTargetsAsync called
+2026-01-15 22:05:34.912 [info] AspireServer - Request starting HTTP/1.1 GET https://localhost:36949/info - - -
+2026-01-15 22:05:34.913 [info] Request starting HTTP/1.1 GET https://localhost:36949/info - - -
+2026-01-15 22:05:34.955 [info] AspireServer - Executing endpoint 'HTTP: GET /info'
+2026-01-15 22:05:34.956 [info] Executing endpoint 'HTTP: GET /info'
+2026-01-15 22:05:34.967 [info] AspireServer - Executed endpoint 'HTTP: GET /info'
+2026-01-15 22:05:34.968 [info] Executed endpoint 'HTTP: GET /info'
+2026-01-15 22:05:34.969 [info] AspireServer - Request finished HTTP/1.1 GET https://localhost:36949/info - 200 - application/json;+charset=utf-8 56.3568ms
+2026-01-15 22:05:34.970 [info] Request finished HTTP/1.1 GET https://localhost:36949/info - 200 - application/json;+charset=utf-8 56.3568ms
+2026-01-15 22:05:36.883 [info] AspireServer - Request starting HTTP/1.1 GET https://localhost:36949/telemetry/enabled - - -
+2026-01-15 22:05:36.883 [info] Request starting HTTP/1.1 GET https://localhost:36949/telemetry/enabled - - -
+2026-01-15 22:05:36.884 [info] AspireServer - Executing endpoint 'HTTP: GET /telemetry/enabled'
+2026-01-15 22:05:36.885 [info] Executing endpoint 'HTTP: GET /telemetry/enabled'
+2026-01-15 22:05:36.893 [info] AspireServer - Executed endpoint 'HTTP: GET /telemetry/enabled'
+2026-01-15 22:05:36.894 [info] Executed endpoint 'HTTP: GET /telemetry/enabled'
+2026-01-15 22:05:36.894 [info] AspireServer - Request finished HTTP/1.1 GET https://localhost:36949/telemetry/enabled - 200 - application/json 10.7485ms
+2026-01-15 22:05:36.895 [info] Request finished HTTP/1.1 GET https://localhost:36949/telemetry/enabled - 200 - application/json 10.7485ms

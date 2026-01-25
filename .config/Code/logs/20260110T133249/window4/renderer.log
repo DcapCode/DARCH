@@ -1,0 +1,579 @@
+2026-01-13 20:34:23.932 [info] Started local extension host with pid 494649.
+2026-01-13 20:34:23.972 [info] Invoking resolveAuthority(ssh-remote)...
+2026-01-13 20:34:23.972 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2026-01-13 20:34:24.191 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-13 20:34:24.475 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][504ms] invoking...
+2026-01-13 20:34:24.558 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at Object.<anonymous> (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:486236)
+    at 19534 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:504946)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 92839 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:467011)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 49424 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:465868)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 17130 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:596187)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 87631 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:576918)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 65861 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:600757)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 91577 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:857934)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 94111 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:820820)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 35187 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:690379)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 64417 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:847532)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 24847 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:829890)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 54788 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:789192)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 30729 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:682700)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 24430 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:838905)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 52584 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:812208)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 69480 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:801398)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 71535 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:680449)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at /home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1112816
+    at /home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1121149
+    at Object.<anonymous> (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1121255)
+    at Module._compile (node:internal/modules/cjs/loader:1714:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+    at c._load (node:electron/js2c/node_init:2:17993)
+    at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1470:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+2026-01-13 20:34:25.475 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1504ms] waiting...
+2026-01-13 20:34:25.620 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1648ms] returned Managed(1)
+2026-01-13 20:34:25.620 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 1650 ms
+2026-01-13 20:34:25.679 [info] Creating a socket (renderer-Management-fb57486b-96b2-4590-9587-5b890d2d0dec)...
+2026-01-13 20:34:25.680 [info] Creating a socket (renderer-ExtensionHost-8df62498-c01b-4e26-a81d-c9c3ba139b66)...
+2026-01-13 20:34:25.915 [info] Creating a socket (renderer-ExtensionHost-8df62498-c01b-4e26-a81d-c9c3ba139b66) was successful after 236 ms.
+2026-01-13 20:34:25.916 [info] Creating a socket (renderer-Management-fb57486b-96b2-4590-9587-5b890d2d0dec) was successful after 237 ms.
+2026-01-13 20:34:26.036 [info] [reconnection-grace-time] Client received grace time from server: 10800000ms (10800s)
+2026-01-13 20:34:26.413 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-13 20:34:27.661 [info] [perf] Render performance baseline is 28ms
+2026-01-13 20:34:28.291 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:408
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:1899
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:3820
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:5092
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:14768
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:15494
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:34355
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:34545
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:47933
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:53492
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:53564
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5553:1279)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:34:28.292 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9405
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9711
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9987
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:10855
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:222:874
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:229:840
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:229:1991
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:230:4805
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:230:5369
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5554:4587)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:34:28.302 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:460:17882
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at OPt.exports (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:635:132)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:638:11665
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:646:757
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:668:1247
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:745:769
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:745:928
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:758:1823
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5554:5850)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:34:28.302 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3301:105783
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3309:81462
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3309:83499
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3311:320
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3330:1817
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3336:4526
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3336:4618
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3337:317
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5591:10265)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:34:28.303 [error] [Extension Host] (node:1409297) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+2026-01-13 20:34:36.696 [error] [Extension Host] [onDidStartTerminalShellExecution] Shell execution started, but not from a Roo-registered terminal: {"terminal":{"name":"bash","processId":{},"creationOptions":{},"state":{"isInteractedWith":true,"shell":"bash"},"shellIntegration":{"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}},"shellIntegration":"[Circular]","execution":{"commandLine":{"value":"ls --color=auto /var/log/","confidence":2,"isTrusted":true},"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}}
+2026-01-13 20:34:36.706 [error] [Extension Host] [onDidEndTerminalShellExecution] Shell execution ended, but not from a Roo-registered terminal: {"terminal":{"name":"bash","processId":{},"creationOptions":{},"state":{"isInteractedWith":true,"shell":"bash"},"shellIntegration":{"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}},"shellIntegration":"[Circular]","execution":{"commandLine":{"value":"ls --color=auto /var/log/","confidence":2,"isTrusted":true},"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}},"exitCode":0}
+2026-01-13 20:34:45.956 [error] [Extension Host] [onDidStartTerminalShellExecution] Shell execution started, but not from a Roo-registered terminal: {"terminal":{"name":"bash","processId":{},"creationOptions":{},"state":{"isInteractedWith":true,"shell":"bash"},"shellIntegration":{"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}},"shellIntegration":"[Circular]","execution":{"commandLine":{"value":"cat /var/log/restic_backup.log","confidence":2,"isTrusted":true},"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}}
+2026-01-13 20:34:46.361 [error] [Extension Host] [onDidEndTerminalShellExecution] Shell execution ended, but not from a Roo-registered terminal: {"terminal":{"name":"bash","processId":{},"creationOptions":{},"state":{"isInteractedWith":true,"shell":"bash"},"shellIntegration":{"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}}},"shellIntegration":"[Circular]","execution":{"commandLine":{"value":"cat /var/log/restic_backup.log","confidence":2,"isTrusted":true},"cwd":{"$mid":1,"path":"/home/dcap","scheme":"file"}},"exitCode":0}
+2026-01-13 20:34:55.049 [error] Webview.loadLocalResource - Error using fileReader. requestUri=vscode-remote://ssh-remote%2B100.64.0.1/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/webview-ui/build/assets/index.map.json, resourceToLoad=vscode-remote://ssh-remote%2B100.64.0.1/vscode-resource?%7B%22requestResourcePath%22%3A%22%2Fhome%2Fdcap%2F.vscode-server%2Fextensions%2Frooveterinaryinc.roo-cline-3.39.3%2Fwebview-ui%2Fbuild%2Fassets%2Findex.map.json%22%7D
+2026-01-13 20:34:55.049 [error] Webview.loadLocalResource - Error using fileReader. requestUri=vscode-remote://ssh-remote%2B100.64.0.1/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/webview-ui/build/assets/index.sourcemap, resourceToLoad=vscode-remote://ssh-remote%2B100.64.0.1/vscode-resource?%7B%22requestResourcePath%22%3A%22%2Fhome%2Fdcap%2F.vscode-server%2Fextensions%2Frooveterinaryinc.roo-cline-3.39.3%2Fwebview-ui%2Fbuild%2Fassets%2Findex.sourcemap%22%7D
+2026-01-13 20:35:06.351 [info] Started local extension host with pid 494765.
+2026-01-13 20:35:06.929 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at Object.<anonymous> (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:486236)
+    at 19534 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:504946)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 92839 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:467011)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 49424 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:465868)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 17130 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:596187)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 87631 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:576918)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 65861 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:600757)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 91577 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:857934)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 94111 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:820820)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 35187 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:690379)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 64417 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:847532)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 24847 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:829890)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 54788 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:789192)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 30729 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:682700)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 24430 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:838905)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 52584 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:812208)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 69480 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:801398)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at 71535 (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:680449)
+    at r (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1111952)
+    at /home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1112816
+    at /home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1121149
+    at Object.<anonymous> (/home/dcap/.vscode/extensions/ms-vscode-remote.remote-ssh-0.122.0/out/extension.js:2:1121255)
+    at Module._compile (node:internal/modules/cjs/loader:1714:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+    at c._load (node:electron/js2c/node_init:2:17993)
+    at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1470:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+2026-01-13 20:35:07.032 [info] Invoking resolveAuthority(ssh-remote)...
+2026-01-13 20:35:07.032 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2026-01-13 20:35:07.037 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5ms] invoking...
+2026-01-13 20:35:07.283 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][251ms] returned Managed(1)
+2026-01-13 20:35:07.284 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 251 ms
+2026-01-13 20:35:07.284 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa)...
+2026-01-13 20:35:07.284 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d)...
+2026-01-13 20:35:07.321 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa) was successful after 36 ms.
+2026-01-13 20:35:07.325 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d) was successful after 41 ms.
+2026-01-13 20:35:07.405 [info] [reconnection-grace-time] Client received grace time from server: 10800000ms (10800s)
+2026-01-13 20:35:08.387 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-13 20:35:08.694 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-13 20:35:09.463 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:408
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:1899
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:3820
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:5092
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:14768
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:15494
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:34355
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:34545
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:47933
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:53492
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:115:53564
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5553:1279)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:35:09.463 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9405
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9711
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:9987
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:220:10855
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:222:874
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:229:840
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:229:1991
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:230:4805
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:230:5369
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5554:4587)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:35:09.464 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:460:17882
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at OPt.exports (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:635:132)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:638:11665
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:646:757
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:668:1247
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:745:769
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:745:928
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:758:1823
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5554:5850)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:35:09.464 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6678)
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3301:105783
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3309:81462
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3309:83499
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:358
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3311:320
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3330:1817
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3336:4526
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3336:4618
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:3337:317
+    at /home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:1:325
+    at Object.<anonymous> (/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/dist/extension.js:5591:10265)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:404:6048)
+    at t._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:222:22598)
+    at s._load (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:214:24094)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at HX.Cb (file:///home/dcap/.vscode-server/cli/servers/Stable-994fd12f8d3a5aa16f17d42c041e5809167e845a/server/out/vs/workbench/api/node/extensionHostProcess.js:253:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-01-13 20:35:09.464 [error] [Extension Host] (node:1409905) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+2026-01-13 20:35:11.137 [error] Webview.loadLocalResource - Error using fileReader. requestUri=vscode-remote://ssh-remote%2B100.64.0.1/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/webview-ui/build/assets/index.map.json, resourceToLoad=vscode-remote://ssh-remote%2B100.64.0.1/vscode-resource?%7B%22requestResourcePath%22%3A%22%2Fhome%2Fdcap%2F.vscode-server%2Fextensions%2Frooveterinaryinc.roo-cline-3.39.3%2Fwebview-ui%2Fbuild%2Fassets%2Findex.map.json%22%7D
+2026-01-13 20:35:11.138 [error] Webview.loadLocalResource - Error using fileReader. requestUri=vscode-remote://ssh-remote%2B100.64.0.1/home/dcap/.vscode-server/extensions/rooveterinaryinc.roo-cline-3.39.3/webview-ui/build/assets/index.sourcemap, resourceToLoad=vscode-remote://ssh-remote%2B100.64.0.1/vscode-resource?%7B%22requestResourcePath%22%3A%22%2Fhome%2Fdcap%2F.vscode-server%2Fextensions%2Frooveterinaryinc.roo-cline-3.39.3%2Fwebview-ui%2Fbuild%2Fassets%2Findex.sourcemap%22%7D
+2026-01-13 20:35:11.158 [info] [perf] Render performance baseline is 29ms
+2026-01-13 21:48:12.106 [info] [remote-connection][Management   ][e376d…][reconnect] received socket close event (hadError: false).
+2026-01-13 21:48:12.107 [info] [remote-connection][Management   ][e376d…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2026-01-13 21:48:12.108 [info] [remote-connection][Management   ][e376d…][reconnect] starting reconnection with grace time: 10800000ms (10800s)
+2026-01-13 21:48:12.108 [info] [remote-connection][Management   ][e376d…][reconnect] resolving connection...
+2026-01-13 21:48:12.108 [info] Invoking resolveAuthority(ssh-remote)...
+2026-01-13 21:48:12.109 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][0ms] obtaining proxy...
+2026-01-13 21:48:12.109 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][0ms] invoking...
+2026-01-13 21:48:12.112 [info] [remote-connection][ExtensionHost][576ea…][reconnect] received socket close event (hadError: false).
+2026-01-13 21:48:12.112 [info] [remote-connection][ExtensionHost][576ea…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2026-01-13 21:48:12.113 [info] [remote-connection][ExtensionHost][576ea…][reconnect] starting reconnection with grace time: 10800000ms (10800s)
+2026-01-13 21:48:12.113 [info] [remote-connection][ExtensionHost][576ea…][reconnect] resolving connection...
+2026-01-13 21:48:13.110 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][1001ms] waiting...
+2026-01-13 21:48:14.110 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][2001ms] waiting...
+2026-01-13 21:48:15.110 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][3001ms] waiting...
+2026-01-13 21:48:16.110 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][4001ms] waiting...
+2026-01-13 21:48:17.110 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][5001ms] waiting...
+2026-01-13 21:48:17.386 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][5278ms] returned Managed(2)
+2026-01-13 21:48:17.387 [info] resolveAuthority(ssh-remote) returned 'Managed(2)' after 5278 ms
+2026-01-13 21:48:17.387 [info] [remote-connection][Management   ][e376d…][reconnect] connecting to Managed(2)...
+2026-01-13 21:48:17.387 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa)...
+2026-01-13 21:48:17.387 [info] [remote-connection][ExtensionHost][576ea…][reconnect] connecting to Managed(2)...
+2026-01-13 21:48:17.387 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d)...
+2026-01-13 21:48:17.458 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa) was successful after 71 ms.
+2026-01-13 21:48:17.464 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d) was successful after 76 ms.
+2026-01-13 21:48:17.484 [info] [remote-connection][Management   ][e376d…][reconnect] reconnected!
+2026-01-13 21:48:17.495 [info] [remote-connection][ExtensionHost][576ea…][reconnect] reconnected!
+2026-01-14 06:24:03.649 [info] [remote-connection][Management   ][e376d…][reconnect] received socket close event (hadError: false).
+2026-01-14 06:24:03.650 [info] [remote-connection][Management   ][e376d…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2026-01-14 06:24:03.650 [info] [remote-connection][Management   ][e376d…][reconnect] starting reconnection with grace time: 10800000ms (10800s)
+2026-01-14 06:24:03.651 [info] [remote-connection][Management   ][e376d…][reconnect] resolving connection...
+2026-01-14 06:24:03.651 [info] Invoking resolveAuthority(ssh-remote)...
+2026-01-14 06:24:03.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][0ms] obtaining proxy...
+2026-01-14 06:24:03.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][0ms] invoking...
+2026-01-14 06:24:03.658 [info] [remote-connection][ExtensionHost][576ea…][reconnect] received socket close event (hadError: false).
+2026-01-14 06:24:03.658 [info] [remote-connection][ExtensionHost][576ea…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2026-01-14 06:24:03.658 [info] [remote-connection][ExtensionHost][576ea…][reconnect] starting reconnection with grace time: 10800000ms (10800s)
+2026-01-14 06:24:03.659 [info] [remote-connection][ExtensionHost][576ea…][reconnect] resolving connection...
+2026-01-14 06:24:04.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][1001ms] waiting...
+2026-01-14 06:24:05.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][2000ms] waiting...
+2026-01-14 06:24:06.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][3001ms] waiting...
+2026-01-14 06:24:07.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][4000ms] waiting...
+2026-01-14 06:24:08.652 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][5000ms] waiting...
+2026-01-14 06:24:09.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][6000ms] waiting...
+2026-01-14 06:24:10.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][7000ms] waiting...
+2026-01-14 06:24:11.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][8000ms] waiting...
+2026-01-14 06:24:12.652 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][9000ms] waiting...
+2026-01-14 06:24:13.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][10000ms] waiting...
+2026-01-14 06:24:14.653 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][11000ms] waiting...
+2026-01-14 06:24:15.652 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][12000ms] waiting...
+2026-01-14 06:24:16.140 [info] [LocalProcess0][resolveAuthority(ssh-remote,3)][12489ms] returned Managed(3)
+2026-01-14 06:24:16.140 [info] resolveAuthority(ssh-remote) returned 'Managed(3)' after 12489 ms
+2026-01-14 06:24:16.141 [info] [remote-connection][Management   ][e376d…][reconnect] connecting to Managed(3)...
+2026-01-14 06:24:16.141 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa)...
+2026-01-14 06:24:16.141 [info] [remote-connection][ExtensionHost][576ea…][reconnect] connecting to Managed(3)...
+2026-01-14 06:24:16.141 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d)...
+2026-01-14 06:24:16.398 [info] Creating a socket (renderer-Management-e376d006-4b37-4caa-8aeb-a2470febc7fa) was successful after 256 ms.
+2026-01-14 06:24:16.403 [info] Creating a socket (renderer-ExtensionHost-576ea9d2-0db6-419a-821b-3333f90a9b6d) was successful after 258 ms.
+2026-01-14 06:24:16.473 [error] [remote-connection][Management   ][e376d…][reconnect][Managed(3)] received error control message when negotiating connection. Error:
+2026-01-14 06:24:16.477 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at qNi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:40984)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:32573)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at pDs.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:13509)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:12876)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at dze.acceptChunk (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:8137)
+2026-01-14 06:24:16.479 [error] [remote-connection][Management   ][e376d…][reconnect] A permanent error occurred in the reconnecting loop! Will give up now! Error:
+2026-01-14 06:24:16.479 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at qNi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:40984)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:32573)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at pDs.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:13509)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:12876)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at dze.acceptChunk (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:8137)
+2026-01-14 06:24:16.546 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/settings.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.550 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/tasks.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.550 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/launch.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.551 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/mcp.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.551 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/settings.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.552 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/tasks.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.552 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/launch.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.552 [error] Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/.vscode/mcp.json' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async mEt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65683)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65587)
+2026-01-14 06:24:16.552 [error] [remote-connection][ExtensionHost][576ea…][reconnect][Managed(3)] received error control message when negotiating connection. Error:
+2026-01-14 06:24:16.553 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at qNi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:40984)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:32573)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at pDs.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:13509)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:12876)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at dze.acceptChunk (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:8137)
+2026-01-14 06:24:16.553 [error] [remote-connection][ExtensionHost][576ea…][reconnect] A permanent error occurred in the reconnecting loop! Will give up now! Error:
+2026-01-14 06:24:16.554 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at qNi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:40984)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3057:32573)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at pDs.A (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:13509)
+    at Sce.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:12876)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at dze.acceptChunk (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:8137)
+2026-01-14 06:24:19.016 [error] ENOPRO: No file system provider found for resource 'git:/home/dcap/onedev/infrastructure/backup/backup.sh?%7B%22path%22%3A%22%2Fhome%2Fdcap%2Fonedev%2Finfrastructure%2Fbackup%2Fbackup.sh%22%2C%22ref%22%3A%22~%22%7D': CodeExpectedError
+    at mEt.j (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:61346)
+    at async mEt.m (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:61425)
+    at async mEt.readFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:65803)
+    at async MEt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:9998)
+    at async MEt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:9773)
+    at async ACe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1319:12360)
+    at async ACe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1319:10835)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:6355
+2026-01-14 06:24:19.016 [error] Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/backup/backup.sh' (Canceled: Canceled): Error: Unable to read file 'vscode-remote://ssh-remote+100.64.0.1/home/dcap/onedev/infrastructure/backup/backup.sh' (Canceled: Canceled)
+    at mEt.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66491)
+    at mEt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:66316)
+    at async MEt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:9998)
+    at async MEt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:9773)
+    at async ACe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1319:12360)
+    at async ACe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1319:10835)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3858:6355

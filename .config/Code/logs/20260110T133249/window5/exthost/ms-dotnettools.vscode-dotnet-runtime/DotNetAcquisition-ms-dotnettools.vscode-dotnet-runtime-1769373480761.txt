@@ -1,0 +1,133 @@
+1/25/2026, 9:38:00 PM 782 AutomaticUpdateCheck
+Checking for updates after 300000. Last Update Date: 2026-01-13T19:39:21.282Z. Current Date: 2026-01-25T20:38:00.762Z
+
+1/25/2026, 9:38:00 PM 783 AutomaticUpdateCheck
+Commencing updates at 1769373480783 in 300000 ms.
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-chat-features for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension DavidAnson.vscode-markdownlint for .NET installation requests
+
+1/25/2026, 9:38:00 PM 785 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+1/25/2026, 9:38:00 PM 786 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+1/25/2026, 9:38:00 PM 786 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+1/25/2026, 9:38:00 PM 786 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.remote-explorer for .NET installation requests
+
+1/25/2026, 9:38:00 PM 786 DotnetVSCodeExtensionFound
+true
+Checking extension svelte.svelte-vscode for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-chat-features for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension bierner.markdown-mermaid for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension biomejs.biome for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc-icons for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension DavidAnson.vscode-markdownlint for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension IgorSbitnev.error-gutters for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.remote-explorer for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension RooVeterinaryInc.roo-cline for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension rust-lang.rust-analyzer for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension svelte.svelte-vscode for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension tamasfe.even-better-toml for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension usernamehw.errorlens for .NET installation requests
+
+1/25/2026, 9:38:02 PM 484 DotnetVSCodeExtensionFound
+true
+Checking extension yzhang.markdown-all-in-one for .NET installation requests

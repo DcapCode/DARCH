@@ -1,0 +1,10 @@
+2026-01-04 22:37:54.546 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.30ms
+window<->ptyhostservice<->ptyhost: 6.20ms
+ptyhostservice<->ptyhost: 1.54ms []
+2026-01-07 17:15:58.208 [warning] Shell integration failed to add capabilities within 10 seconds []
+2026-01-07 22:19:12.922 [error] Exception occurred during xterm disposal [{}]
+2026-01-07 22:19:15.452 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.20ms
+ptyhostservice<->ptyhost: 0.54ms []

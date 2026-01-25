@@ -1,0 +1,19 @@
+2026-01-10 13:32:50.103 [info] update#setState idle
+2026-01-10 13:33:19.403 [warning] No ptyHost heartbeat after 6 seconds
+2026-01-10 13:33:22.838 [info] update#setState checking for updates
+2026-01-10 13:33:24.435 [info] update#setState available for download
+2026-01-11 15:32:43.917 [info] Extension host with pid 481600 exited with code: 0, signal: unknown.
+2026-01-11 15:32:43.943 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 481585]: crashed with code 15 and reason 'killed'
+2026-01-12 07:49:48.087 [info] Extension host with pid 481693 exited with code: 0, signal: unknown.
+2026-01-12 19:58:23.087 [info] Extension host with pid 487761 exited with code: 0, signal: unknown.
+2026-01-13 20:14:27.885 [info] Extension host with pid 489766 exited with code: 0, signal: unknown.
+2026-01-13 20:35:05.673 [info] Extension host with pid 494649 exited with code: 0, signal: unknown.
+2026-01-13 21:48:11.645 [warning] No ptyHost heartbeat after 6 seconds
+2026-01-14 06:24:21.821 [info] Extension host with pid 494765 exited with code: 0, signal: unknown.
+2026-01-14 06:24:21.860 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 494787]: crashed with code 15 and reason 'killed'
+2026-01-15 22:35:13.805 [warning] No ptyHost heartbeat after 6 seconds
+2026-01-15 22:36:36.986 [warning] No ptyHost heartbeat after 6 seconds
+2026-01-17 11:01:31.265 [info] Extension host with pid 494558 exited with code: 0, signal: unknown.
+2026-01-17 11:01:31.274 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 494543]: crashed with code 15 and reason 'killed'
+2026-01-25 21:38:05.745 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 548783]: crashed with code 15 and reason 'killed'
+2026-01-25 21:38:06.705 [info] Extension host with pid 548798 exited with code: 0, signal: unknown.

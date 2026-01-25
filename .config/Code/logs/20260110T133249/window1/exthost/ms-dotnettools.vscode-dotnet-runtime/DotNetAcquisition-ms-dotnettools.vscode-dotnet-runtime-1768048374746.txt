@@ -1,0 +1,1426 @@
+1/10/2026, 1:32:54 PM 750 AutomaticUpdateCheck
+Checking for updates after 300000. Last Update Date: 2026-01-07T21:24:16.609Z. Current Date: 2026-01-10T12:32:54.747Z
+
+1/10/2026, 1:32:54 PM 751 AutomaticUpdateCheck
+Commencing updates at 1768048374751 in 300000 ms.
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-chat-features for .NET installation requests
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension bierner.markdown-mermaid for .NET installation requests
+
+1/10/2026, 1:32:54 PM 752 DotnetVSCodeExtensionFound
+true
+Checking extension biomejs.biome for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc-icons for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension DavidAnson.vscode-markdownlint for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension IgorSbitnev.error-gutters for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.remote-explorer for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension RooVeterinaryInc.roo-cline for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension rust-lang.rust-analyzer for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension svelte.svelte-vscode for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension tamasfe.even-better-toml for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension usernamehw.errorlens for .NET installation requests
+
+1/10/2026, 1:32:54 PM 753 DotnetVSCodeExtensionFound
+true
+Checking extension yzhang.markdown-all-in-one for .NET installation requests
+
+1/10/2026, 1:32:55 PM 600 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.1","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+1/10/2026, 1:32:55 PM 600 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:32:55 PM 602 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:55.602Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:55 PM 602 CommandExecutionEvent
+Executing command "dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:55 PM 614 CommandExecutionTimer
+The command "dotnet" --list-runtimes --arch x64 took 11.17 ms to run.
+11.17
+ "dotnet" --list-runtimes --arch x64
+2a2e2b4dc23d60b8356d9051902716865c635a4686dba329ca4f53e13e8fc78f
+
+1/10/2026, 1:32:55 PM 614 CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:55 PM 614 CommandExecutionStdOut
+The command "dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:55 PM 614 CommandExecutionStdError
+The command "dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:55 PM 614 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:55.614Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:55 PM 616 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:55.616Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:55 PM 616 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:55 PM 890 CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 274.07 ms to run.
+274.07
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+1/10/2026, 1:32:55 PM 890 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:55 PM 890 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:55 PM 890 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:55 PM 891 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:55.891Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:55 PM 891 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:55.891Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:55 PM 892 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+1/10/2026, 1:32:55 PM 892 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+1/10/2026, 1:32:55 PM 893 GenericDotnetLockEvent
+Action: session-d4ecd7af6c Lock acquired: /run/user/1000/vscd-session-d4ecd7af6c.sock
+2026-01-10T12:32:55.893Z
+session-d4ecd7af6c
+session-d4ecd7af6c
+true
+
+1/10/2026, 1:32:55 PM 893 GenericDotnetLockEvent
+Action: installedLk-5c199001-ae7c-4b1b-916e-395b61369893 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:55.893Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:55 PM 894 MarkedInstallInUse
+Session session-d4ecd7af6c marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet"]}
+
+1/10/2026, 1:32:56 PM 278 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.2","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+1/10/2026, 1:32:56 PM 278 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:32:56 PM 278 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.278Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 279 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.279Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 279 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.279Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 280 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: runtime
+
+1/10/2026, 1:32:56 PM 280 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+1/10/2026, 1:32:56 PM 280 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.280Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 280 CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 287 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.287Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 287 CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 294 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.294Z
+which which{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 294 CommandExecutionEvent
+Executing command which which with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 302 CommandExecutionTimer
+The command echo $PATH took 14.51 ms to run.
+14.51
+ echo $PATH
+23c3bebf31826568ef891d4c8f852b3875d2e5beff0ca44e02bd310c892c0923
+
+1/10/2026, 1:32:56 PM 302 CommandExecutionStatusEvent
+The command echo $PATH exited:
+ENOENT.
+
+1/10/2026, 1:32:56 PM 302 CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+
+
+1/10/2026, 1:32:56 PM 302 CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 302 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.302Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+30000
+true
+
+1/10/2026, 1:32:56 PM 302 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+1/10/2026, 1:32:56 PM 305 GenericDotnetLockEvent
+Action: installedLk-5c199001-ae7c-4b1b-916e-395b61369893 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.305Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 308 CommandExecutionTimer
+The command which which took 13.38 ms to run.
+13.38
+ which which
+a4aa6a3d22b478e49624e652352f9e84b4d2df75d35f2a9d91c35e70bc346156
+
+1/10/2026, 1:32:56 PM 308 CommandExecutionStatusEvent
+The command which which exited:
+0.
+
+1/10/2026, 1:32:56 PM 308 CommandExecutionStdOut
+The command which which encountered stdout:
+/usr/bin/which
+
+
+1/10/2026, 1:32:56 PM 308 CommandExecutionStdError
+The command which which encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 308 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.308Z
+which which{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+30000
+true
+
+1/10/2026, 1:32:56 PM 308 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+1/10/2026, 1:32:56 PM 308 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.308Z
+which dotnet{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 308 CommandExecutionEvent
+Executing command which dotnet with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 314 CommandExecutionTimer
+The command echo $PATH took 33.62 ms to run.
+33.62
+ echo $PATH
+23c3bebf31826568ef891d4c8f852b3875d2e5beff0ca44e02bd310c892c0923
+
+1/10/2026, 1:32:56 PM 314 CommandExecutionStatusEvent
+The command echo $PATH exited:
+0.
+
+1/10/2026, 1:32:56 PM 314 CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+1/10/2026, 1:32:56 PM 314 CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 314 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.314Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 314 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+1/10/2026, 1:32:56 PM 333 CommandExecutionTimer
+The command which dotnet took 24.42 ms to run.
+24.42
+ which dotnet
+a4aa6a3d22b478e49624e652352f9e84b4d2df75d35f2a9d91c35e70bc346156
+
+1/10/2026, 1:32:56 PM 333 CommandExecutionStatusEvent
+The command which dotnet exited:
+0.
+
+1/10/2026, 1:32:56 PM 333 CommandExecutionStdOut
+The command which dotnet encountered stdout:
+/usr/bin/dotnet
+
+
+1/10/2026, 1:32:56 PM 333 CommandExecutionStdError
+The command which dotnet encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 333 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.333Z
+which dotnet{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 333 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+1/10/2026, 1:32:56 PM 333 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.333Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 334 CommandExecutionEvent
+Executing command "/usr/bin/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 347 CommandExecutionTimer
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 took 12.96 ms to run.
+12.96
+ "/usr/bin/dotnet" --list-runtimes --arch x64
+1bdcd771504671e2a7eb72fca3e4cc09397ea74b6bda4b7425d43f878bcf389f
+
+1/10/2026, 1:32:56 PM 347 CommandExecutionStatusEvent
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:56 PM 347 CommandExecutionStdOut
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:56 PM 347 CommandExecutionStdError
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 347 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.347Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 347 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.347Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 347 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 359 CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 11.81 ms to run.
+11.81
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+1/10/2026, 1:32:56 PM 359 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:56 PM 359 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:56 PM 359 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 359 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.359Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 360 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.360Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 360 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: runtime
+
+1/10/2026, 1:32:56 PM 360 DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+1/10/2026, 1:32:56 PM 360 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+1/10/2026, 1:32:56 PM 361 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.361Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 361 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.361Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+1/10/2026, 1:32:56 PM 361 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.361Z
+which which{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 361 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+1/10/2026, 1:32:56 PM 361 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+1/10/2026, 1:32:56 PM 361 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+1/10/2026, 1:32:56 PM 361 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.361Z
+which dotnet{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 361 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+1/10/2026, 1:32:56 PM 361 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.361Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 542 DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+1/10/2026, 1:32:56 PM 543 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.543Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 543 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.543Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 543 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.543Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 543 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: runtime
+
+1/10/2026, 1:32:56 PM 544 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+1/10/2026, 1:32:56 PM 544 GenericDotnetLockEvent
+Action: installedLk-6da612a1-b9e0-4bd8-ac1b-96075c10d591 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.544Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 567 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:32:56 PM 567 GenericDotnetLockEvent
+Action: installedLk-6da612a1-b9e0-4bd8-ac1b-96075c10d591 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.567Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 567 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.567Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 567 CommandExecutionEvent
+Executing command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 582 CommandExecutionTimer
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 took 13.96 ms to run.
+13.96
+ "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64
+1a2add08fed1924b8fdbbc612526302555175d51be79c7cad1487f7590b411c1
+
+1/10/2026, 1:32:56 PM 582 CommandExecutionStatusEvent
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:56 PM 582 CommandExecutionStdOut
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:56 PM 582 CommandExecutionStdError
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 582 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.582Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 582 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.582Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 582 DotnetConditionsValidated
+true
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet satisfies the conditions.
+
+1/10/2026, 1:32:56 PM 582 DotnetFindPathMetCondition
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet met the conditions.
+
+1/10/2026, 1:32:56 PM 583 GenericDotnetLockEvent
+Action: installedLk-7dbe9df3-ce05-4d36-b632-64100f0397d4 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.583Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 583 MarkedInstallInUse
+Session session-d4ecd7af6c marked /home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:32:56 PM 585 GenericDotnetLockEvent
+Action: installedLk-7dbe9df3-ce05-4d36-b632-64100f0397d4 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.585Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 586 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.2","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+1/10/2026, 1:32:56 PM 586 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:32:56 PM 586 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.586Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 586 CommandExecutionEvent
+Executing command "dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 597 CommandExecutionTimer
+The command "dotnet" --list-runtimes --arch x64 took 10.39 ms to run.
+10.39
+ "dotnet" --list-runtimes --arch x64
+2a2e2b4dc23d60b8356d9051902716865c635a4686dba329ca4f53e13e8fc78f
+
+1/10/2026, 1:32:56 PM 597 CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:32:56 PM 597 CommandExecutionStdOut
+The command "dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:32:56 PM 597 CommandExecutionStdError
+The command "dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 597 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.597Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 597 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.597Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 597 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.597Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 598 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: aspnetcore
+
+1/10/2026, 1:32:56 PM 598 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+1/10/2026, 1:32:56 PM 598 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.598Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+false
+
+1/10/2026, 1:32:56 PM 598 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.598Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+1/10/2026, 1:32:56 PM 598 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.598Z
+which which{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 598 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+1/10/2026, 1:32:56 PM 598 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+1/10/2026, 1:32:56 PM 598 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+1/10/2026, 1:32:56 PM 598 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.598Z
+which dotnet{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 598 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+1/10/2026, 1:32:56 PM 599 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.599Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 599 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.599Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 599 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.599Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 599 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: aspnetcore
+
+1/10/2026, 1:32:56 PM 599 DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+1/10/2026, 1:32:56 PM 599 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+1/10/2026, 1:32:56 PM 600 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.599Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 600 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.600Z
+echo $PATH{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+1/10/2026, 1:32:56 PM 600 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.600Z
+which which{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 600 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+1/10/2026, 1:32:56 PM 600 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+1/10/2026, 1:32:56 PM 600 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+1/10/2026, 1:32:56 PM 600 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.600Z
+which dotnet{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 600 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+1/10/2026, 1:32:56 PM 600 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.600Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 601 DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+1/10/2026, 1:32:56 PM 601 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.601Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 602 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.602Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 602 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.602Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 602 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: aspnetcore
+
+1/10/2026, 1:32:56 PM 602 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+1/10/2026, 1:32:56 PM 603 GenericDotnetLockEvent
+Action: installedLk-524516ec-92fb-46b5-b79a-e6b3c96b7cf2 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.603Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 605 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:32:56 PM 605 GenericDotnetLockEvent
+Action: installedLk-524516ec-92fb-46b5-b79a-e6b3c96b7cf2 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.605Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 605 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.605Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 606 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.606Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 606 DotnetConditionsValidated
+true
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet satisfies the conditions.
+
+1/10/2026, 1:32:56 PM 606 DotnetFindPathMetCondition
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet met the conditions.
+
+1/10/2026, 1:32:56 PM 606 GenericDotnetLockEvent
+Action: installedLk-59f22026-16e5-45b0-bc31-2655d74d07d6 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.606Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 606 MarkedInstallInUse
+Session session-d4ecd7af6c marked /home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:32:56 PM 610 GenericDotnetLockEvent
+Action: installedLk-59f22026-16e5-45b0-bc31-2655d74d07d6 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.610Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 610 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"6.0","requestingExtensionId":"ms-dotnettools.csdevkit","installType":"global","architecture":"x64","mode":"sdk"},"versionSpecRequirement":"greater_than_or_equal"}
+
+1/10/2026, 1:32:56 PM 610 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:32:56 PM 611 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.611Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 611 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.611Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:32:56 PM 611 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:32:56 PM 625 CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 took 13.26 ms to run.
+13.26
+ "/usr/share/dotnet/dotnet" --list-sdks --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+1/10/2026, 1:32:56 PM 625 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 exited:
+0.
+
+1/10/2026, 1:32:56 PM 625 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stdout:
+10.0.100 [/usr/share/dotnet/sdk]
+
+
+1/10/2026, 1:32:56 PM 625 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stderr:
+
+
+1/10/2026, 1:32:56 PM 625 CachePutEvent
+Adding to the cache at 2026-01-10T12:32:56.625Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"10.0.100 [/usr/share/dotnet/sdk]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:32:56 PM 626 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.625Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 626 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 6.0.
+
+1/10/2026, 1:32:56 PM 627 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 6.0.
+
+1/10/2026, 1:32:56 PM 627 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+1/10/2026, 1:32:56 PM 627 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+1/10/2026, 1:32:56 PM 627 GenericDotnetLockEvent
+Action: installedLk-fd5ff0be-1bc1-4300-b3e0-988a832783da Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.627Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 627 MarkedInstallInUse
+Session session-d4ecd7af6c marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:32:56 PM 636 GenericDotnetLockEvent
+Action: installedLk-fd5ff0be-1bc1-4300-b3e0-988a832783da Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.636Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 638 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"10.0.0","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"latestMajor","rejectPreviews":false}
+
+1/10/2026, 1:32:56 PM 638 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:32:56 PM 638 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.638Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 639 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.639Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 639 CacheGetEvent
+Checking the cache at 2026-01-10T12:32:56.639Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:32:56 PM 639 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+1/10/2026, 1:32:56 PM 639 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+1/10/2026, 1:32:56 PM 640 GenericDotnetLockEvent
+Action: installedLk-3ffa1fa4-8c30-43d6-97b3-7b060e677ef4 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.640Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:32:56 PM 640 MarkedInstallInUse
+Session session-d4ecd7af6c marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:32:56 PM 642 GenericDotnetLockEvent
+Action: installedLk-3ffa1fa4-8c30-43d6-97b3-7b060e677ef4 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:32:56.642Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:33:25 PM 719 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"0.0","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"sdk","installType":"global"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":false}
+
+1/10/2026, 1:33:25 PM 719 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+1/10/2026, 1:33:25 PM 720 CacheGetEvent
+Checking the cache at 2026-01-10T12:33:25.720Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:33:25 PM 720 CommandExecutionEvent
+Executing command "dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:33:25 PM 811 CommandExecutionTimer
+The command "dotnet" --list-runtimes --arch x64 took 90.44 ms to run.
+90.44
+ "dotnet" --list-runtimes --arch x64
+2a2e2b4dc23d60b8356d9051902716865c635a4686dba329ca4f53e13e8fc78f
+
+1/10/2026, 1:33:25 PM 812 CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:33:25 PM 812 CommandExecutionStdOut
+The command "dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:33:25 PM 812 CommandExecutionStdError
+The command "dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:33:25 PM 812 CachePutEvent
+Adding to the cache at 2026-01-10T12:33:25.812Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:33:25 PM 812 CacheGetEvent
+Checking the cache at 2026-01-10T12:33:25.812Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:33:25 PM 813 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:33:25 PM 902 CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 took 89.62 ms to run.
+89.62
+ "/usr/share/dotnet/dotnet" --list-sdks --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+1/10/2026, 1:33:25 PM 902 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 exited:
+0.
+
+1/10/2026, 1:33:25 PM 902 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stdout:
+10.0.100 [/usr/share/dotnet/sdk]
+
+
+1/10/2026, 1:33:25 PM 902 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stderr:
+
+
+1/10/2026, 1:33:25 PM 902 CachePutEvent
+Adding to the cache at 2026-01-10T12:33:25.902Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"10.0.100 [/usr/share/dotnet/sdk]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:33:25 PM 907 CacheGetEvent
+Checking the cache at 2026-01-10T12:33:25.907Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:33:25 PM 907 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:33:25 PM 947 CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 39.90 ms to run.
+39.90
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+1/10/2026, 1:33:25 PM 947 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:33:25 PM 947 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:33:25 PM 947 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:33:25 PM 947 CachePutEvent
+Adding to the cache at 2026-01-10T12:33:25.947Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:33:25 PM 948 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 0.0.
+
+1/10/2026, 1:33:25 PM 948 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 0.0.
+
+1/10/2026, 1:33:25 PM 948 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+1/10/2026, 1:33:25 PM 948 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+1/10/2026, 1:33:25 PM 948 GenericDotnetLockEvent
+Action: installedLk-796ad63d-d511-4d75-9dcf-9ddf250377d0 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:33:25.948Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:33:25 PM 949 MarkedInstallInUse
+Session session-d4ecd7af6c marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:33:26 PM 143 GenericDotnetLockEvent
+Action: installedLk-796ad63d-d511-4d75-9dcf-9ddf250377d0 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:33:26.143Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 776 GenericDotnetLockEvent
+Action: installedLk-95f96da5-d664-4e6f-8685-565417a074e8 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.776Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 779 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:37:54 PM 779 GenericDotnetLockEvent
+Action: installedLk-95f96da5-d664-4e6f-8685-565417a074e8 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.779Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 780 UpdatingInstallGroups
+Automatic update triggered and detected the following install groups: [[{"mode":"aspnetcore","architecture":"x64","majorMinor":"9.0"},[{"dotnetInstall":{"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"},"installingExtensions":["ms-dotnettools.csdevkit","dotnet-runtime-library"]}]]]
+
+1/10/2026, 1:37:54 PM 783 DotnetAcquisitionRequested
+9.0
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+
+1/10/2026, 1:37:54 PM 784 DotnetASPNetRuntimeAcquisitionRequested
+9.0
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+aspnetcore
+
+1/10/2026, 1:37:54 PM 790 WebRequestInitiated
+Making Web Request For https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+1/10/2026, 1:37:54 PM 790 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+1/10/2026, 1:37:54 PM 883 WebRequestTime
+Timer for request:
+87.01
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+1/10/2026, 1:37:54 PM 885 DotnetVersionResolutionCompleted
+9.0
+9.0.11
+
+1/10/2026, 1:37:54 PM 887 DotnetInstallIdCreatedEvent
+true
+The requested version 9.0.11 is now marked under the install: {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"}.
+
+1/10/2026, 1:37:54 PM 888 GenericDotnetLockEvent
+Action: 9.0.11~x64~aspnetcore-f99c1ebb-06e4-44f7-9311-e240e847893c Lock acquired: /run/user/1000/vscd-9.0.11~x64~aspnetcore.sock
+2026-01-10T12:37:54.887Z
+9.0.11~x64~aspnetcore
+9.0.11~x64~aspnetcore
+true
+
+1/10/2026, 1:37:54 PM 888 GenericDotnetLockEvent
+Action: installedLk-e9059b82-b59f-4a5b-ba4c-ab743ee24d09 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.888Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 892 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:37:54 PM 892 GenericDotnetLockEvent
+Action: installedLk-e9059b82-b59f-4a5b-ba4c-ab743ee24d09 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.892Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 893 DotnetInstallationValidated
+9.0.11~x64~aspnetcore
+9.0.11~x64~aspnetcore
+9.0.11
+x64
+false
+aspnetcore
+
+1/10/2026, 1:37:54 PM 894 CacheGetEvent
+Checking the cache at 2026-01-10T12:37:54.894Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+1/10/2026, 1:37:54 PM 894 CommandExecutionEvent
+Executing command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","shell":true,"encoding":"utf8"}.
+
+1/10/2026, 1:37:54 PM 914 CommandExecutionTimer
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 took 19.57 ms to run.
+19.57
+ "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64
+1a2add08fed1924b8fdbbc612526302555175d51be79c7cad1487f7590b411c1
+
+1/10/2026, 1:37:54 PM 914 CommandExecutionStatusEvent
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+1/10/2026, 1:37:54 PM 914 CommandExecutionStdOut
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+
+1/10/2026, 1:37:54 PM 914 CommandExecutionStdError
+The command "/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+1/10/2026, 1:37:54 PM 914 CachePutEvent
+Adding to the cache at 2026-01-10T12:37:54.914Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+1/10/2026, 1:37:54 PM 915 CacheGetEvent
+Checking the cache at 2026-01-10T12:37:54.915Z
+"/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/dcap/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0/dist","encoding":"utf8","env":"HOME: /home/dcap\nLANG: en_US.UTF-8\nPATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/dcap\nSHELL: /usr/bin/zsh\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/dcap/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 428463\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.11 [/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+1/10/2026, 1:37:54 PM 915 DotnetConditionsValidated
+true
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet satisfies the conditions.
+
+1/10/2026, 1:37:54 PM 915 DotnetAcquisitionAlreadyInstalled
+9.0.11~x64~aspnetcore
+9.0.11
+x64
+false
+aspnetcore
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+
+1/10/2026, 1:37:54 PM 915 GenericDotnetLockEvent
+Action: installedLk-6ea81c96-4249-45c6-89b6-b3996a98c7ef Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.915Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 916 AddTrackingVersions
+true
+Adding {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 9.0.11~x64~aspnetcore from the state.
+
+1/10/2026, 1:37:54 PM 916 DotnetInstallationValidated
+9.0.11~x64~aspnetcore
+9.0.11~x64~aspnetcore
+9.0.11
+x64
+false
+aspnetcore
+
+1/10/2026, 1:37:54 PM 916 MarkedInstallInUse
+Session session-d4ecd7af6c marked /home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-3abf4fe1a5":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-a7b38d29b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-06674048b9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ab50b0e356":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-530a92f8e3":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-12fcda0bcd":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-87d3c0296f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-5b28415122":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9afbd6039a":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-79f063744f":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9fb5a04014":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-795a874100":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-44ec0153f4":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-7cacb30ff1":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-3a937c3412":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-74612418a7":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-ef783d7de9":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-b4ab5a5037":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-9817d9c535":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"],"session-d4ecd7af6c":["/usr/share/dotnet/dotnet","/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet"]}
+
+1/10/2026, 1:37:54 PM 921 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:37:54 PM 921 AddTrackingVersions
+true
+Updated installed :
+{"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+ 
+
+1/10/2026, 1:37:54 PM 925 GenericDotnetLockEvent
+Action: installedLk-6ea81c96-4249-45c6-89b6-b3996a98c7ef Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.925Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 925 GenericDotnetLockEvent
+Action: 9.0.11~x64~aspnetcore-f99c1ebb-06e4-44f7-9311-e240e847893c Lock freed: /run/user/1000/vscd-9.0.11~x64~aspnetcore.sock
+2026-01-10T12:37:54.925Z
+9.0.11~x64~aspnetcore
+9.0.11~x64~aspnetcore
+true
+
+1/10/2026, 1:37:54 PM 926 DotnetCommandSucceeded
+acquire
+
+1/10/2026, 1:37:54 PM 926 DotnetAcquisitionTotalSuccessEvent
+9.0.11
+9.0.11~x64~aspnetcore
+9.0.11~x64~aspnetcore
+9.0.11
+x64
+false
+aspnetcore
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+/home/dcap/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.11~x64~aspnetcore/dotnet
+
+1/10/2026, 1:37:54 PM 927 DotnetASPNetRuntimeAcquisitionTotalSuccessEvent
+9.0.11~x64~aspnetcore
+9.0.11
+x64
+false
+aspnetcore
+
+1/10/2026, 1:37:54 PM 928 GenericDotnetLockEvent
+Action: installedLk-20012807-ae11-4e27-b8fd-91b72ad02629 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.927Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 932 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:37:54 PM 932 GenericDotnetLockEvent
+Action: installedLk-20012807-ae11-4e27-b8fd-91b72ad02629 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.932Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 933 GenericDotnetLockEvent
+Action: installedLk-aec6ddea-60fd-41c9-85c8-6bcedb80bb62 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.933Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 936 FoundTrackingVersions
+true
+installed :
+                        {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit, dotnet-runtime-library
+
+
+1/10/2026, 1:37:54 PM 937 AddTrackingVersions
+true
+Adding owners ms-dotnettools.csdevkit, dotnet-runtime-library to existing install record {"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":"false","installMode":"aspnetcore"}
+
+1/10/2026, 1:37:54 PM 940 GenericDotnetLockEvent
+Action: installedLk-aec6ddea-60fd-41c9-85c8-6bcedb80bb62 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-01-10T12:37:54.940Z
+installedLk
+installedLk
+true
+
+1/10/2026, 1:37:54 PM 940 UninstallingOutdatedInstalls
+The installs [] are outdated - attempting to uninstall. The latest install was {"dotnetInstall":{"installId":"9.0.11~x64~aspnetcore","version":"9.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"},"installingExtensions":["ms-dotnettools.csdevkit","dotnet-runtime-library"]}

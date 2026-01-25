@@ -1,0 +1,70 @@
+2026-01-10 13:33:32.929 [info] Project system initialization finished. 11 project(s) are loaded, and 0 failed to load.
+2026-01-15 22:26:44.604 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.EnvironmentVariables from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.1)
+2026-01-15 22:26:44.608 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:26:44.609 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:26:54.316 [error] (/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version. 
+ Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2) 
+ Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0)
+2026-01-15 22:26:55.477 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.EnvironmentVariables from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.1)
+2026-01-15 22:26:55.478 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:26:55.480 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:26:55.849 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.EnvironmentVariables from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.EnvironmentVariables (>= 10.0.1)
+2026-01-15 22:26:55.850 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:26:55.851 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:11.387 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:27:11.389 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:17.462 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:20.961 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:27:20.967 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:21.763 [error] (/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version. 
+ Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2) 
+ Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0)
+2026-01-15 22:27:26.129 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.FileExtensions from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.FileExtensions (>= 10.0.1)
+2026-01-15 22:27:26.137 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:28.847 [error] (/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version. 
+ Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2) 
+ Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0)
+2026-01-15 22:27:28.960 [error] (/home/dcap/onedev/Creel/test/Creel.Api.Tests/Creel.Api.Tests.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Api.Tests -> Microsoft.AspNetCore.Mvc.Testing 10.0.1 -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Api.Tests -> Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:29.094 [error] (/home/dcap/onedev/Creel/src/Creel.Database/Creel.Database.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Json from 10.0.2 to 10.0.1. Reference the package directly from the project to select a different version. 
+ Creel.Database -> Microsoft.Extensions.Hosting 10.0.2 -> Microsoft.Extensions.Configuration.Json (>= 10.0.2) 
+ Creel.Database -> Microsoft.Extensions.Configuration.Json (>= 10.0.1)
+2026-01-15 22:27:37.868 [error] (/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version. 
+ Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2) 
+ Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0)
+2026-01-15 22:28:06.755 [error] (/home/dcap/onedev/Creel/src/Creel.Api.MigrationService/Creel.Api.MigrationService.csproj): Warning As Error: Detected package downgrade: Microsoft.Extensions.Hosting from 10.0.2 to 10.0.0. Reference the package directly from the project to select a different version. 
+ Creel.Api.MigrationService -> Creel.Database -> Microsoft.Extensions.Hosting (>= 10.0.2) 
+ Creel.Api.MigrationService -> Microsoft.Extensions.Hosting (>= 10.0.0)
