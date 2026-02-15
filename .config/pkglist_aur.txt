@@ -4,3 +4,4 @@ opencode 1.0.193-1
 paru 2.1.0-2
 visual-studio-code-bin 1.107.1-1
 zen-browser-bin 1.17.14b-1
+konsave 1.1.8-1

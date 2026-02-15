@@ -1,0 +1,60 @@
+# Ignore embedded git repositories
+.config/Code/**/.git
+.config/chromium/**/.git
+.config/google-chrome/**/.git
+
+# Ignore temporary files
+*.backup.*
+*~
+.*.swp
+.*.swo
+
+# Ignore log files
+*.log
+
+# Ignore lock files
+*.lock
+
+# Machine-specific files (hardware IDs, caches, secrets)
+.config/kwinoutputconfig.json
+.config/kdeglobals
+.config/kconf_updaterc
+.config/baloofilerc
+.config/kactivitymanagerd*
+.config/ksmserverrc
+.config/user-dirs.dirs
+.config/user-dirs.locale
+.config/mimeapps.list
+.config/gtk-3.0/bookmarks
+.config/gtk-4.0/bookmarks
+.config/Element/
+.config/Code/User/globalStorage/
+.config/Code/User/workspaceStorage/
+.config/google-chrome/
+.config/chromium/
+.config/Mozilla/
+.config/thunderbird/
+.config/.gh/
+.config/gh/
+
+# Caches (never track)
+.cache/
+.local/cache/
+
+# Secrets and credentials
+.ssh/
+.gnupg/
+.config/kwalletrc
+.config/akonadi/
+
+# Large generated files
+.zcompdump*
+*.zwc
+
+# Node/Bun caches
+.npm/
+.bun/install/cache/
+
+# Local backups
+.dotfiles.backup.*/
+
