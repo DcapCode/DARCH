@@ -2,4 +2,4 @@
 	email = dcap@dcapedcode.com
 	name = dcap
 [alias]
-	dotfiles = /usr/bin/git --git-dir=$HOME/.darch/ --work-tree=$HOME
+	dotfiles = "!git --git-dir=$HOME/.darch/ --work-tree=$HOME"
